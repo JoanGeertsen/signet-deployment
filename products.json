@@ -1,0 +1,99 @@
+[
+    {
+      "id": "01-1",
+      "name": "Batman",
+      "img": "catalogImgs/batman.png",
+      "keys": ["batman", "dc", "comics", "superhero", "justice league", "bruce wayne", "gotham", "dark knight", "bat", "bat signal", "batmobile", "batcave", "robin", "joker", "catwoman", "bane"],
+      "featured": true,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "02-1",
+      "name": "Melies",
+      "img": "catalogImgs/melies.png",
+      "keys": ["melies", "trip to the moon", "moon", "rocket", "space", "astronaut", "moon landing", "georges melies", "film", "movie", "cinema", "black and white", "silent film", "1902", "fantasy", "science fiction", "selenite", "moon face", "rocket ship", "space travel", "space exploration"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "03-1",
+      "name": "Portalgun",
+      "img": "catalogImgs/portalgun.png",
+      "keys": ["portal", "portal gun", "portalgun", "aperture", "aperture science", "valve", "portal 2", "portal 3", "chell", "glados", "wheatley", "companion cube", "cake", "portal gun replica", "portal gun prop", "portal gun toy", "portal gun model", "portal gun 3d print", "portal gun 3d model", "portal gun 3d print file"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "04-1",
+      "name": "CocaCola.",
+      "img": "catalogImgs/cocacola.png",
+      "keys": ["cocacola", "coca cola", "coke", "cola", "soda", "pop", "beverage", "drink", "soft drink", "fizzy", "refreshing", "classic", "vintage", "retro", "logo", "soda pop", "soda can", "soda bottle", "soda fountain", "soda machine"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "05-1",
+      "name": "HarryPotter.",
+      "img": "catalogImgs/harrypotter.png",
+      "keys": ["harry potter", "harry", "potter", "hogwarts", "gryffindor", "slytherin", "ravenclaw", "hufflepuff", "hermione", "ron", "dumbledore", "voldemort", "snape", "hagrid", "dobby", "quidditch", "magic", "wizard", "witch", "muggle"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "06-1",
+      "name": "DaftPunk.",
+      "img": "catalogImgs/daftpunk.png",
+      "keys": ["daft punk", "daft", "punk", "daft punk helmet", "daft punk mask", "daft punk costume", "daft punk outfit", "daft punk suit", "daft punk gloves", "daft punk jacket", "daft punk pants", "daft punk shoes", "daft punk boots", "daft punk gloves", "daft punk belt", "daft punk buckle", "daft punk logo", "daft punk album", "daft punk music", "daft punk concert"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "01-2",
+      "name": "Batman",
+      "img": "catalogImgs/batman.png",
+      "keys": ["batman", "dc", "comics", "superhero", "justice league", "bruce wayne", "gotham", "dark knight", "bat", "bat signal", "batmobile", "batcave", "robin", "joker", "catwoman", "bane"],
+      "featured": true,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "02-2",
+      "name": "Melies",
+      "img": "catalogImgs/melies.png",
+      "keys": ["melies", "trip to the moon", "moon", "rocket", "space", "astronaut", "moon landing", "georges melies", "film", "movie", "cinema", "black and white", "silent film", "1902", "fantasy", "science fiction", "selenite", "moon face", "rocket ship", "space travel", "space exploration"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "03-2",
+      "name": "Portalgun",
+      "img": "catalogImgs/portalgun.png",
+      "keys": ["portal", "portal gun", "portalgun", "aperture", "aperture science", "valve", "portal 2", "portal 3", "chell", "glados", "wheatley", "companion cube", "cake", "portal gun replica", "portal gun prop", "portal gun toy", "portal gun model", "portal gun 3d print", "portal gun 3d model", "portal gun 3d print file"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "04-2",
+      "name": "CocaCola.",
+      "img": "catalogImgs/cocacola.png",
+      "keys": ["cocacola", "coca cola", "coke", "cola", "soda", "pop", "beverage", "drink", "soft drink", "fizzy", "refreshing", "classic", "vintage", "retro", "logo", "soda pop", "soda can", "soda bottle", "soda fountain", "soda machine"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "05-2",
+      "name": "HarryPotter.",
+      "img": "catalogImgs/harrypotter.png",
+      "keys": ["harry potter", "harry", "potter", "hogwarts", "gryffindor", "slytherin", "ravenclaw", "hufflepuff", "hermione", "ron", "dumbledore", "voldemort", "snape", "hagrid", "dobby", "quidditch", "magic", "wizard", "witch", "muggle"],
+      "featured": false,
+      "date": "2025-02-24"
+    },
+    {
+      "id": "06-2",
+      "name": "DaftPunk.",
+      "img": "catalogImgs/daftpunk.png",
+      "keys": ["daft punk", "daft", "punk", "daft punk helmet", "daft punk mask", "daft punk costume", "daft punk outfit", "daft punk suit", "daft punk gloves", "daft punk jacket", "daft punk pants", "daft punk shoes", "daft punk boots", "daft punk gloves", "daft punk belt", "daft punk buckle", "daft punk logo", "daft punk album", "daft punk music", "daft punk concert"],
+      "featured": false,
+      "date": "2025-02-25"
+    }
+  ]
+  
