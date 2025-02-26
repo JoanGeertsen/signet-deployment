@@ -17,9 +17,9 @@
 },
 {
   "id": "01-3",
-  "name": "",
+  "name": "PizzaPlanet",
   "img": "catalogImgs/01-3.png",
-  "keys": [],
+  "keys": ["pizza", "Queso", "Planeta", "Espacio"],
   "featured": false,
   "date": "2025-02-25"
 },
