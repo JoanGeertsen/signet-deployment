@@ -1153,721 +1153,730 @@
 },
 {
   "id": "02-1",
-  "name": "",
+  "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-2",
-  "name": "",
+  "name": "BCS-2",
   "img": "catalogImgs/02-2.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-3",
-  "name": "",
+  "name": "BCS-3",
   "img": "catalogImgs/02-3.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-4",
-  "name": "",
+  "name": "BCS-4",
   "img": "catalogImgs/02-4.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Verde", "Green", "Celeste", "Agua", "Acua", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-5",
-  "name": "",
+  "name": "BCS-5",
   "img": "catalogImgs/02-5.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Amarillo", "Yellow", "Arcoiris", "Arco iris", "Rainbow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-6",
-  "name": "",
+  "name": "BCS-6",
   "img": "catalogImgs/02-6.png",
-  "keys": [],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Rojo", "Red", "Morado", "Violeta", "Purple", "Violet"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-7",
-  "name": "",
+  "name": "Jake",
   "img": "catalogImgs/02-7.png",
-  "keys": [],
+  "keys": ["Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Adventure time", "Adventures time", "Azul", "Blue", "Verde", "Green","Cian", "Cyan", "Gris", "Gray"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-8",
-  "name": "",
+  "name": "Jake",
   "img": "catalogImgs/02-8.png",
-  "keys": [],
+  "keys": ["Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Finn el humano", "Jake el perro", "Princesa Chicle", "Rey Helado", "Marceline", "BMO", "Dulce Princesa", "Hora de aventura", "Hora de la aventura", "Jake", "Finn", "Adventure time", "Adventures time", "Amarillo", "Yellow", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-9",
-  "name": "",
+  "name": "Bob Esponja",
   "img": "catalogImgs/02-9.png",
-  "keys": [],
+  "keys": ["Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Arenita", "Plankton", "Fondo de Bikini", "Gary", "Bob Esponja", "Sponge Bob", "Patricio", "Calamardo", "Don Cangrejo", "Amarillo", "Yellow", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-10",
-  "name": "",
+  "name": "Don Cangrejo",
   "img": "catalogImgs/02-10.png",
-  "keys": [],
+  "keys": ["Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-11",
-  "name": "",
+  "name": "D-Ball",
   "img": "catalogImgs/02-11.png",
-  "keys": [],
+  "keys": ["Dragon Ball", "Planeta Vegeta", "Vegeta", "Vegetta", "Goku", "Gohan", "Goten", "Trunks", "Bulma", "Piccolo", "Krillin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin", "Krilin", "Yamcha", "Tenshinhan", "Chaoz", "Mutenroshi", "Kame Sennin"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-12",
-  "name": "",
+  "name": "Donuts",
   "img": "catalogImgs/02-12.png",
-  "keys": [],
+  "keys": ["Donuts", "Donas", "Los Simpsons", "Simpsons", "Rosquitas", "Amarillo", "Rosa", "Yellow", "Pink"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-13",
-  "name": "",
+  "name": "Marvin",
   "img": "catalogImgs/02-13.png",
-  "keys": [],
+  "keys": ["Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Verde", "Green", "Celeste", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-14",
-  "name": "",
+  "name": "Rick",
   "img": "catalogImgs/02-14.png",
-  "keys": [],
+  "keys": ["Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-15",
-  "name": "",
+  "name": "Morty",
   "img": "catalogImgs/02-15.png",
-  "keys": [],
+  "keys": ["Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-16",
-  "name": "",
+  "name": "Picklerick",
   "img": "catalogImgs/02-16.png",
-  "keys": [],
+  "keys": ["Picklerick", "Pepino", "Pepinillo", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Verde", "Green", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-17",
-  "name": "",
+  "name": "Marvin",
   "img": "catalogImgs/02-17.png",
-  "keys": [],
+  "keys": ["Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Looney Tunes", "Warner Bros", "Warner Brothers", "Space Jam", "Bugs Bunny", "Pato Lucas", "Porky", "Taz", "Sylvester", "Piolin", "Marvin", "Marvin el marciano", "Marvin the Martian", "Looney Toons", "Verde", "Green", "Negro", "Black", "Espacio", "Space"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-18",
-  "name": "",
+  "name": "Matrix",
   "img": "catalogImgs/02-18.png",
-  "keys": [],
+  "keys": ["Matrix", "Binario", "Codigo", "Informatica", "Computacion", "Computación", "Warner", "Verde", "Green", "Negro", "Black", "PC"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-19",
-  "name": "",
+  "name": "Matrix",
   "img": "catalogImgs/02-19.png",
-  "keys": [],
+  "keys": ["Matrix", "Binario", "Codigo", "Informatica", "Computacion", "Computación", "Warner", "Verde", "Green", "Negro", "Black", "PC"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-20",
-  "name": "",
+  "name": "Tom",
   "img": "catalogImgs/02-20.png",
-  "keys": [],
+  "keys": ["Tom", "Tom y Jerry", "Tom and Jerry", "Jerry", "Cartoon", "Verde", "Azul", "Green", "Blue", "Cat", "Gato"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-21",
-  "name": "",
+  "name": "Melies",
   "img": "catalogImgs/02-21.png",
-  "keys": [],
+  "keys": ["Melies", "Luna", "Moon", "Ciencia Ficcion", "Pelicula", "Cine", "Viaje a la luna", "Negro", "Black", "Space", "Espacio", "Estrellas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-22",
-  "name": "",
+  "name": "Simpsons",
   "img": "catalogImgs/02-22.png",
-  "keys": [],
+  "keys": ["Pez", "The Simpsons", "Los Simpsons", "Simpsons", "Pescado", "Radioactivo", "Naranja", "Orange"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-23",
-  "name": "",
+  "name": "Simpsons",
   "img": "catalogImgs/02-23.png",
-  "keys": [],
+  "keys": ["Homero", "Homer", "Bart", "Rojo", "Red", "Orange", "Naranja", "Amarillo", "Yellow", "Sol", "Sun", "Sunset", "Atardecer"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-24",
-  "name": "",
+  "name": "Jiji",
   "img": "catalogImgs/02-24.png",
-  "keys": [],
+  "keys": ["Kiki", "Jiji", "Delivery Service", "Anime", "Ghibli", "Studio Ghibli", "Verde", "Green", "Amarillo", "Yellow", "Gato", "Cat", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-25",
-  "name": "",
+  "name": "Miyazaki",
   "img": "catalogImgs/02-25.png",
-  "keys": [],
+  "keys": ["Miyazaki", "Anime", "Ghibli", "Studio Ghibli", "Celeste", "Blue", "Azul", "Cielo", "Sky"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-26",
-  "name": "",
+  "name": "Chihiro",
   "img": "catalogImgs/02-26.png",
-  "keys": [],
+  "keys": ["Chihiro", "El viaje de Chihiro", "Anime", "Ghibli", "Studio Ghibli", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-27",
-  "name": "",
+  "name": "Casa de Papel",
   "img": "catalogImgs/02-27.png",
-  "keys": [],
+  "keys": ["Casa de Papel", "Netflix", "Heist", "Heist", "Golpe", "Robo", "Profesor", "Rojo", "Red", "Serie"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-28",
-  "name": "",
+  "name": "Casa de Papel",
   "img": "catalogImgs/02-28.png",
-  "keys": [],
+  "keys": ["Casa de Papel", "Netflix", "Heist", "Heist", "Golpe", "Robo", "Profesor", "Rojo", "Red", "Serie"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-29",
-  "name": "",
+  "name": "Mickey",
   "img": "catalogImgs/02-29.png",
-  "keys": [],
+  "keys": ["Mickey", "Mickey Mouse", "Donald", "Pluto", "Minie", "Rojo", "Red", "Navidad", "Christmas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-30",
-  "name": "",
+  "name": "Cowboy Bebop",
   "img": "catalogImgs/02-30.png",
-  "keys": [],
+  "keys": [
+    "Cowboy Bebop",
+    "Anime",
+    "Space Western",
+    "Sci-Fi",
+    "Action",
+    "Adventure",
+    "Jazz",
+    "Bounty Hunters",
+    "Spike Spiegel",
+    "Faye Valentine",
+    "Jet Black",
+    "Edward",
+    "Ein",
+    "Sunrise",
+    "90s Anime",
+    "Classic Anime"
+  ],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-31",
-  "name": "",
+  "name": "Vader",
   "img": "catalogImgs/02-31.png",
-  "keys": [],
+  "keys": ["Star Wars", "Galaxias", "Darth Vader", "Rosa", "Pink", "George Lucas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-32",
-  "name": "",
+  "name": "Homero",
   "img": "catalogImgs/02-32.png",
-  "keys": [],
+  "keys": ["Homero", "Homer", "The Simpsons", "Verde", "Green", "Arbusto", "Meme"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "02-33",
-  "name": "",
+  "name": "Bart",
   "img": "catalogImgs/02-33.png",
-  "keys": [],
+  "keys": ["Bart", "Bananas", "The Simpsons", "Amarillo", "Yellow", "Banana", "Platano", "Rosa", "Pink"], 
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-1",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-1.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-2",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-2.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-3",
-  "name": "",
+  "name": "Companion Cube",
   "img": "catalogImgs/03-3.png",
-  "keys": [],
+  "keys": ["Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-4",
-  "name": "",
+  "name": "Torreta",
   "img": "catalogImgs/03-4.png",
-  "keys": [],
+  "keys": ["Torreta", "Turret", "Portal", "Aperture", "Valve", "GLaDOS", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-5",
-  "name": "",
+  "name": "PortalShock",
   "img": "catalogImgs/03-5.png",
-  "keys": [],
+  "keys": ["Portal", "Portales", "Aperture", "Valve", "Bioshock Infinite", "Gris", "Gray"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-6",
-  "name": "",
+  "name": "Companion Cube",
   "img": "catalogImgs/03-6.png",
-  "keys": [],
+  "keys": ["Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-7",
-  "name": "",
+  "name": "PortalGun",
   "img": "catalogImgs/03-7.png",
-  "keys": [],
+  "keys": ["Portalgun", "Portal gun","Pistola de portales",  "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "GLaDOS", "Chell", "Wheatley", "Cave Johnson", "Companion Cube", "Cubo de Compañia", "Portal", "Aperture", "Valve", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-8",
-  "name": "",
+  "name": "Tetris",
   "img": "catalogImgs/03-8.png",
-  "keys": [],
+  "keys": ["Tetris", "Gameboy", "Rusia", "Gaming", "Videojuegos", "Consola", "Retro"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-9",
-  "name": "",
+  "name": "No-Internet",
   "img": "catalogImgs/03-9.png",
-  "keys": [],
+  "keys": ["Internet", "Dinosaurio", "Videojuego", "Error", "Dinosour", "Black", "Negro", "Espacio", "Space", "Stars", "Estrellas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-10",
-  "name": "",
+  "name": "Minecraft",
   "img": "catalogImgs/03-10.png",
-  "keys": [],
+  "keys": ["Minecraft", "Biblioteca", "Libreria", "Aldeanos", "Mojang", "Videojuego", "Pixelart", "Pixel art", "Textura", "Texture", "Libro", "Libros"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-11",
-  "name": "",
+  "name": "Minecraft",
   "img": "catalogImgs/03-11.png",
-  "keys": [],
+  "keys": ["Minecraft", "Ghast", "Fantasma", "Fireball", "Fire Ball", "Mojang"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-12",
-  "name": "",
+  "name": "Minecraft",
   "img": "catalogImgs/03-12.png",
-  "keys": [],
+  "keys": ["Minecraft","Slime", "Cuevas", "Caves", "Arte", "Art", "Mojang"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-13",
-  "name": "",
+  "name": "Minecraft",
   "img": "catalogImgs/03-13.png",
-  "keys": [],
+  "keys": ["Minecraft","Ender", "Enderman", "Ojo", "Eye", "Endereye", "Perla de ender", "Enderpearl"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-14",
-  "name": "",
+  "name": "PacMan",
   "img": "catalogImgs/03-14.png",
-  "keys": [],
+  "keys": ["Pacman", "Pac Man", "Videojuego", "Arcade", "Retro"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-15",
-  "name": "",
+  "name": "Mario",
   "img": "catalogImgs/03-15.png",
-  "keys": [],
+  "keys": ["Mario", "Mariobross", "Mario bross", "Nintendo", "Tuberia", "Verde", "Green", "Celeste", "Azul", "Blue", "Videojuego"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-16",
-  "name": "",
+  "name": "Playstation",
   "img": "catalogImgs/03-16.png",
-  "keys": [],
+  "keys": ["Playstation", "Play Station", "Consola", "Sony", "Videojuego", "Gaming", "Logo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-17",
-  "name": "",
+  "name": "Checkpoint",
   "img": "catalogImgs/03-17.png",
-  "keys": [],
+  "keys": ["Checkpoint", "Check Point", "Save", "Guardar progreso", "Videojuego", "Gaming", "Consola", "Retro", "Retrogaming"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-18",
-  "name": "",
+  "name": "Hollow Knight",
   "img": "catalogImgs/03-18.png",
-  "keys": [],
+  "keys": ["Hollow Knight", "HollowKnight", "Team Cherry", "Videojuego", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-19",
-  "name": "",
+  "name": "Hollow Knight",
   "img": "catalogImgs/03-19.png",
-  "keys": [],
+  "keys": ["Hollow Knight", "HollowKnight", "Team Cherry", "Videojuego", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-20",
-  "name": "",
+  "name": "Hollow Knight",
   "img": "catalogImgs/03-20.png",
-  "keys": [],
+  "keys": ["Hollow Knight", "HollowKnight", "Team Cherry", "Videojuego", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-21",
-  "name": "",
+  "name": "Hollow Knight",
   "img": "catalogImgs/03-21.png",
-  "keys": [],
+  "keys": ["Hollow Knight", "HollowKnight", "Team Cherry", "Videojuego", "Blanco", "White", "Rojo", "Red", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-22",
-  "name": "",
+  "name": "Bioshock",
   "img": "catalogImgs/03-22.png",
-  "keys": [],
+  "keys": ["Bioshock", "Big Daddy", "BigDaddy", "Rapture", "Azul", "Celeste", "Cian", "Blue", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-23",
-  "name": "",
+  "name": "Bioshock",
   "img": "catalogImgs/03-23.png",
-  "keys": [],
+  "keys": ["Bioshock", "Big Daddy", "BigDaddy", "Rapture", "Azul", "Celeste", "Cian", "Blue", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-24",
-  "name": "",
+  "name": "Hollow Knight",
   "img": "catalogImgs/03-24.png",
-  "keys": [],
+  "keys": ["Hollow Knight", "HollowKnight", "Team Cherry", "Videojuego", "Blanco", "White", "Rojo", "Red", "Blanco", "White", "Hornet"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-25",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-25.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-26",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-26.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-27",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-27.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-28",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-28.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-29",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-29.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-30",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-30.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-31",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-31.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-32",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-32.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-33",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-33.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-34",
-  "name": "",
+  "name": "Sonic",
   "img": "catalogImgs/03-34.png",
-  "keys": [],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-35",
-  "name": "",
+  "name": "Portal",
   "img": "catalogImgs/03-35.png",
-  "keys": [],
+  "keys": ["Aperture", "Portal", "Valve", "Logo", "Aperture Science", "Videojuego", "Gaming", "Consola", "Retro", "Retrogaming", "Negro", "Black", "Blanco", "White", "GLaDOS"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "03-36",
-  "name": "",
+  "name": "Portal",
   "img": "catalogImgs/03-36.png",
-  "keys": [],
+  "keys": ["Portal", "Valve", "Aperture", "Wehealthy", "Space", "Espacio", "Moron", "Idiot"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-1",
-  "name": "",
+  "name": "Daft Punk",
   "img": "catalogImgs/04-1.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-2",
-  "name": "",
+  "name": "Daft Punk",
   "img": "catalogImgs/04-2.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-3",
-  "name": "",
-  "img": "catalogImgs/04-3.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-4",
-  "name": "",
+  "name": "Daft Punk evolution",
   "img": "catalogImgs/04-4.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-3",
+  "name": "Daft Punk",
+  "img": "catalogImgs/04-3.png",
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-5",
-  "name": "",
+  "name": "Daft Punk",
   "img": "catalogImgs/04-5.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-6",
-  "name": "",
-  "img": "catalogImgs/04-6.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-7",
-  "name": "",
-  "img": "catalogImgs/04-7.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-8",
-  "name": "",
+  "name": "Daft Punk",
   "img": "catalogImgs/04-8.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-9",
-  "name": "",
-  "img": "catalogImgs/04-9.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-10",
-  "name": "",
-  "img": "catalogImgs/04-10.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-11",
-  "name": "",
-  "img": "catalogImgs/04-11.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-12",
-  "name": "",
-  "img": "catalogImgs/04-12.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-13",
-  "name": "",
-  "img": "catalogImgs/04-13.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "04-14",
-  "name": "",
-  "img": "catalogImgs/04-14.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "04-15",
-  "name": "",
+  "name": "Daft punk",
   "img": "catalogImgs/04-15.png",
-  "keys": [],
+  "keys": ["Daft Punk", "Guy Man", "Guy Manuel", "Robot", "DJ", "Electronica", "Techno", "Francia", "French House", "Thomas Bangalter", "Rosa", "Pink", "Blanco", "White"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-10",
+  "name": "Led Zeppelin",
+  "img": "catalogImgs/04-10.png",
+  "keys": ["Led Zeppelin", "Rock", "Musica", "Banda", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-6",
+  "name": "Casetes",
+  "img": "catalogImgs/04-6.png",
+  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Casete"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-7",
+  "name": "Casetes",
+  "img": "catalogImgs/04-7.png",
+  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Casete"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-11",
+  "name": "Casetes",
+  "img": "catalogImgs/04-11.png",
+  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Rojo", "Red", "Casete"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-12",
+  "name": "Casetes",
+  "img": "catalogImgs/04-12.png",
+  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Casete"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-13",
+  "name": "Vinilos",
+  "img": "catalogImgs/04-13.png",
+  "keys": ["Disco", "Discos de vinilo", "Vinyl Discs", "Retro", "Musica", "Vintage", "Colores"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-14",
+  "name": "Vinilos",
+  "img": "catalogImgs/04-14.png",
+  "keys": ["Disco", "Discos de vinilo", "Vinyl Discs", "Retro", "Musica", "Vintage", "Colores"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-1",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-1.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Escoba", "Bruja", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-2",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-2.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Escoba", "Bruja", "Rojo", "Red", "Plataforma 9 y 3/4"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-3",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-3.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Escoba", "Bruja", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-4",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-4.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Slytherin", "Magia", "Mago", "Escoba", "Bruja", "Verde", "Green"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-5",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-5.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Hufflepuff", "Magia", "Mago", "Escoba", "Bruja", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "05-6",
-  "name": "",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-6.png",
-  "keys": [],
+  "keys": ["Harry Potter", "JK Rowling", "Ravenclaw", "Magia", "Mago", "Escoba", "Azul", "Blue", "Bruja", "Celeste"],
   "featured": false,
   "date": "2025-02-25"
 },
