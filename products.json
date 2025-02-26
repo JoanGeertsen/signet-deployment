@@ -1,17 +1,17 @@
 [
   {
     "id": "01-1",
-    "name": "",
+    "name": "Hamburguesa",
     "img": "catalogImgs/01-1.png",
-    "keys": [],
+    "keys": ["Hamburguesa", "Comida", "Carne", "Pan", "Lechuga", "Tomate", "Queso", "Cebolla", "Salsa", "Ketchup", "Mostaza", "Mayonesa", "Pepinillos", "Plato", "Cena", "Almuerzo", "Desayuno", "Fast Food", "Comida Rápida", "Pop"],
     "featured": false,
     "date": "2025-02-25"
  },
  {
   "id": "01-2",
-  "name": "",
+  "name": "Coca Cola",
   "img": "catalogImgs/01-2.png",
-  "keys": [],
+  "keys": ["Coca Cola", "Bebida", "Refresco", "Gaseosa", "Lata", "Botella", "Vaso", "Pop"],
   "featured": false,
   "date": "2025-02-25"
 },
