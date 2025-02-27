@@ -19,223 +19,223 @@
   "id": "01-3",
   "name": "PizzaPlanet",
   "img": "catalogImgs/01-3.png",
-  "keys": ["pizza", "Queso", "Planeta", "Espacio"],
+  "keys": ["pizza", "Queso", "Planeta", "Espacio","Patron","patrones","planetas","universo","anillos","Saturno"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-4",
-  "name": "",
+  "name": "Hamburguesas",
   "img": "catalogImgs/01-4.png",
-  "keys": [],
+  "keys": ["comida","hamburguesa","cocina","patron","Patrones","amarillo","tomate","lechuga","Comida", "Carne", "Pan", "Lechuga", "Tomate", "Queso", "Cebolla", "Salsa", "Ketchup", "Mostaza", "Mayonesa", "Pepinillos", "Plato", "Cena", "Almuerzo", "Desayuno", "Fast Food", "Amarillo", "Yellow", "Comida Rápida"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-5",
-  "name": "",
+  "name": "Tinta",
   "img": "catalogImgs/01-5.png",
-  "keys": [],
+  "keys": ["Blanco", "Negro", "Black", "White", "Tinta", "Abstracto", "Vector", "Sangrado", "Moderno", "Minimal", "Minimalista"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-6",
-  "name": "",
+  "name": "Cuadrados",
   "img": "catalogImgs/01-6.png",
-  "keys": [],
+  "keys": ["cuadrado","patron","patrones","negro","blanco","oscuro","vectores","geometría","geometricas","abstracto","geometricas","geométricas","formas","forma","rigor"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-7",
-  "name": "",
+  "name": "Vectores",
   "img": "catalogImgs/01-7.png",
-  "keys": [],
+  "keys": ["vector","vectores","patron","patrones","negro","blanco","oscuro","vectores","geometría","geometricas","abstracto","geometricas","geométricas","formas","forma","rigor","reflexion"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-8",
-  "name": "",
+  "name": "Plantas",
   "img": "catalogImgs/01-8.png",
-  "keys": [],
+  "keys": ["planta","verde","arbol","maceta","macetas","cactus","patrones","medio ambiente","cesped","plantines","naturaleza"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-9",
-  "name": "",
+  "name": "Erizos",
   "img": "catalogImgs/01-9.png",
-  "keys": [],
+  "keys": ["naturaleza","animal","animales","patron","patrones","animales","erizo","mascota","opaco"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-10",
-  "name": "",
+  "name": "CatLove",
   "img": "catalogImgs/01-10.png",
-  "keys": [],
+  "keys": ["gato","corazón","amor","cariño","rojo","simple","regalo","corazon","animal","animales","sentimiento", "Cat", "San Valentin", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-11",
-  "name": "",
+  "name": "Caída",
   "img": "catalogImgs/01-11.png",
-  "keys": [],
+  "keys": ["reflexion","meditacion","meditación","misterio","equilibrio","negro","sentimiento","caida","salto","retrospectiva", "Digital art", "Arte digital", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-12",
-  "name": "",
+  "name": "Carrera",
   "img": "catalogImgs/01-12.png",
-  "keys": [],
+  "keys": ["patron","azul","cálido","formula 1","f1","celeste","patrones", "Franco colapinto", "Rayas", "Lineas", "Carreras", "Autos", "Automovilismo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-13",
-  "name": "",
+  "name": "Puntos",
   "img": "catalogImgs/01-13.png",
-  "keys": [],
+  "keys": ["blanco","patron","vacio","patrones","espacios","huecos","ciudad"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-14",
-  "name": "",
+  "name": "Atardecer",
   "img": "catalogImgs/01-14.png",
-  "keys": [],
+  "keys": ["atardecer","cables","reposo","ciudad","rojo","naranja","puesta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-15",
-  "name": "",
+  "name": "Atardecer",
   "img": "catalogImgs/01-15.png",
-  "keys": [],
+  "keys": ["rojo","ciudad","cables","pose","ciudad","rojo","naranja","sol","atardecer"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-16",
-  "name": "",
+  "name": "Cocos",
   "img": "catalogImgs/01-16.png",
-  "keys": [],
+  "keys": ["comida", "Plato", "Cena", "Almuerzo", "Desayuno","patron", "Pop", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-17",
-  "name": "",
+  "name": "Limas",
   "img": "catalogImgs/01-17.png",
-  "keys": [],
+  "keys": ["Verde","amarillo", "Plato", "Cena", "Almuerzo", "Desayuno","patron","lineas", "Pattern", "Green"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-18",
-  "name": "",
+  "name": "Hojas",
   "img": "catalogImgs/01-18.png",
-  "keys": [],
+  "keys": ["hojas","verde","naturaleza","pasas","viento","aire","medio ambiente","ramas","arbol"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-19",
-  "name": "",
+  "name": "Cerezas",
   "img": "catalogImgs/01-19.png",
-  "keys": [],
+  "keys": ["rojo","cerezas","cereza","comida","cena","Plato", "Cena", "Almuerzo", "Desayuno", "Azul"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-20",
-  "name": "",
+  "name": "Kiwi",
   "img": "catalogImgs/01-20.png",
-  "keys": [],
+  "keys": ["verde","kiwi","kiwis","comida","cena","Plato", "Cena", "Almuerzo", "Desayuno","Patron", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-21",
-  "name": "",
+  "name": "Noche",
   "img": "catalogImgs/01-21.png",
-  "keys": [],
+  "keys": ["universo","cielo","rosa","nubes","estrellas","luna","noche","negro","espacio", "Pink", "Clouds", "Fotografia", "Foto", "Sky", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-22",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-22.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar", "Moon"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-23",
-  "name": "",
+  "name": "Astrounauta",
   "img": "catalogImgs/01-23.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-24",
-  "name": "",
+  "name": "Astrounauta",
   "img": "catalogImgs/01-24.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-25",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-25.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Limpieza", "Aspiradora"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-26",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-26.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Moon"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-27",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-27.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Jardineria", "Cesped", "Moon"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-28",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-28.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Moon", "Minero", "Pico", "Mine"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-29",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-29.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Estrellas", "Cielo", "Moon"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-30",
-  "name": "",
+  "name": "Gato estrellado",
   "img": "catalogImgs/01-30.png",
-  "keys": [],
+  "keys": ["astronauta","cielo","noche","luna","estrellas","universo","espacio","negro","vuelo","volar","oscuro","oscuridad","globos","color", "Negro", "Black", "Cat", "Estrellas", "Cielo", "Moon", "Gato", "Cats", "Gatos"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -1882,801 +1882,793 @@
 },
 {
   "id": "06-1",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-1.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Negro", "Black", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-2",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-2.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "06-3",
-  "name": "",
-  "img": "catalogImgs/06-3.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Negro", "Black", "Comic", "Historieta", "Año Cero", "Year Zero", "Moto", "Motocicleta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-4",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-4.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Amarillo", "Yellow", "DC", "Joaquin Fenix", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-5",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-5.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Red", "Rojo", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-6",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-6.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Red", "Rojo", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-7",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-7.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Amarillo", "Yellow", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-8",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-8.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Verde", "Green", "DC", "Joaquin Fenix", "Payaso", "Celeste", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-9",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-9.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Amarillo", "Yellow", "DC", "Joaquin Fenix", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-10",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-10.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Amarillo", "Yellow", "DC", "Joaquin Fenix", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-11",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-11.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Amarillo", "Yellow", "DC", "Joaquin Fenix", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-12",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-12.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Rosa", "Salmon","Pink", "DC", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-13",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-13.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Amarillo", "Yellow", "DC", "Heath Ledger", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-14",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-14.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Black", "Negro", "Comic", "Historieta", "Love", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-15",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-15.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Amarillo", "Yellow", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-16",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-16.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Red", "Rojo", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-17",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-17.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Cian", "Cyan", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-18",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-18.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Naranja", "Orange", "Comic", "Historieta", "Rojo", "Red", "Salmon", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-19",
-  "name": "",
+  "name": "Dr. Manhattan",
   "img": "catalogImgs/06-19.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Dr Manhattan", "Doctor Manhattan", "Alan Moore", "DC", "Azul", "Blue", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-20",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-20.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Rosa", "Pink", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-21",
-  "name": "",
+  "name": "Rorschach",
   "img": "catalogImgs/06-21.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Rorschach", "Alan Moore", "DC", "Amarillo", "Yellow", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-22",
-  "name": "",
+  "name": "Rorschach",
   "img": "catalogImgs/06-22.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Rorschach", "Alan Moore", "DC", "Amarillo", "Yellow", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-23",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-23.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Rojo", "Red", "DC", "Heath Ledger", "Payaso", "Superheroe", "Joaquin Fenix"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-24",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-24.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Rojo", "Rosa", "Pink", "DC", "Heath Ledger", "Payaso", "Superheroe", "Patron", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-25",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-25.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Azul","Blue", "Rojo","Rosa", "Pink", "DC", "Heath Ledger", "Payaso", "Superheroe", "Joaquin Fenix"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-26",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-26.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Negro", "Black", "DC", "Heath Ledger", "Payaso", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-27",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-27.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Green", "Verde", "DC", "Heath Ledger", "Payaso", "Superheroe", "Joaquin Fenix"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-28",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-28.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cyan", "Cian"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-29",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-29.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Rojo", "Red", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-30",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-30.png",
-  "keys": [],
+  "keys": ["Daredevil", "Rojo", "Red", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-31",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-31.png",
-  "keys": [],
+  "keys": ["Daredevil", "Rojo", "Red", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-32",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-32.png",
-  "keys": [],
+  "keys": ["Daredevil", "Rojo", "Red", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-33",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-33.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-34",
-  "name": "",
+  "name": "Rorschach",
   "img": "catalogImgs/06-34.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Rorschach", "Alan Moore", "DC", "Rojo", "Red", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-35",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-35.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-36",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-36.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-37",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-37.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-38",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-38.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-39",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-39.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-40",
-  "name": "",
+  "name": "Spiderman",
   "img": "catalogImgs/06-40.png",
-  "keys": [],
+  "keys": ["Spiderman", "Hombre Araña", "Marvel", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-41",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-41.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Negro", "Black", "DC", "Heath Ledger", "Payaso", "Superheroe", "Patron", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-42",
-  "name": "",
+  "name": "Dr Manhattan",
   "img": "catalogImgs/06-42.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Dr. Manhattan", "Dr Manhattan","Doctor Manhattan", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-43",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-43.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Rojo", "Red", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-44",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-44.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Rojo", "Red", "Comic", "Historieta", "Superheroe"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-45",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-45.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Violeta", "Violet", "Purple", "Purpura", "Comic", "Historieta", "Superheroe", "Renacimiento", "Reborn"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-46",
-  "name": "",
+  "name": "Daredevil",
   "img": "catalogImgs/06-46.png",
-  "keys": [],
+  "keys": ["Daredevil", "Marvel", "Comic", "Historieta", "Superheroe", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-47",
-  "name": "",
+  "name": "Wathmen",
   "img": "catalogImgs/06-47.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta", "Yellow", "Amarillo", "Smile", "Emoji", "Pin"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-48",
-  "name": "",
+  "name": "Batman 1",
   "img": "catalogImgs/06-48.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },	
 {
   "id": "06-49",
-  "name": "",
+  "name": "Batman 2",
   "img": "catalogImgs/06-49.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-50",
-  "name": "",
+  "name": "Batman 3",
   "img": "catalogImgs/06-50.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-51",
-  "name": "",
+  "name": "Batman 4",
   "img": "catalogImgs/06-51.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-52",
-  "name": "",
+  "name": "Batman 5",
   "img": "catalogImgs/06-52.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Verde", "Green", "Comic", "Historieta", "Superheroe", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-53",
-  "name": "",
+  "name": "Dr Manhattan",
   "img": "catalogImgs/06-53.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Dr. Manhattan", "Dr Manhattan","Doctor Manhattan", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-54",
-  "name": "",
+  "name": "Dr Manhattan",
   "img": "catalogImgs/06-54.png",
-  "keys": [],
+  "keys": ["Watchman", "Watchmen", "Dr. Manhattan", "Dr Manhattan","Doctor Manhattan", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-55",
-  "name": "",
+  "name": "Arkham Asylum 1",
   "img": "catalogImgs/06-55.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-56",
-  "name": "",
+  "name": "Arkham Asylum 2",
   "img": "catalogImgs/06-56.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-57",
-  "name": "",
+  "name": "Arkham Asylum 3",
   "img": "catalogImgs/06-57.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-58",
-  "name": "",
+  "name": "Arkham Asylum 4",
   "img": "catalogImgs/06-58.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-59",
-  "name": "",
+  "name": "Arkham Asylum 5",
   "img": "catalogImgs/06-59.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-60",
-  "name": "",
+  "name": "Arkham Asylum 6",
   "img": "catalogImgs/06-60.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-61",
-  "name": "",
+  "name": "Manbat",
   "img": "catalogImgs/06-61.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Manbat", "Man Bat"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-62",
-  "name": "",
+  "name": "Manbat",
   "img": "catalogImgs/06-62.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Manbat", "Man Bat"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-63",
-  "name": "",
+  "name": "Manbat",
   "img": "catalogImgs/06-63.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Manbat", "Man Bat", "Batimovil", "Batmobile"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-64",
-  "name": "",
+  "name": "Sin City",
   "img": "catalogImgs/06-64.png",
-  "keys": [],
+  "keys": ["Sin City", "Frank Miller", "Comic", "Historieta", "Superheroe", "Marv", "Nancy", "Hartigan", "Yellow Bastard", "Rojo", "Red", "Amarillo", "Yellow", "DC", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-65",
-  "name": "",
+  "name": "Sin  City",
   "img": "catalogImgs/06-65.png",
-  "keys": [],
+  "keys": ["Sin City", "Frank Miller", "Comic", "Historieta", "Superheroe", "Marv", "Nancy", "Hartigan", "Yellow Bastard", "Rojo", "Red", "Amarillo", "Yellow", "DC", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-66",
-  "name": "",
+  "name": "Sin City",
   "img": "catalogImgs/06-66.png",
-  "keys": [],
+  "keys": ["Sin City", "Frank Miller", "Comic", "Historieta", "Superheroe", "Marv", "Nancy", "Hartigan", "Yellow Bastard", "Rojo", "Red", "Amarillo", "Yellow", "DC", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-67",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-67.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "Negro", "Black", "DC", "Heath Ledger", "Payaso", "Superheroe", "Batman"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-68",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-68.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-69",
-  "name": "",
+  "name": "Superman",
   "img": "catalogImgs/06-69.png",
-  "keys": [],
+  "keys": ["Superman", "Red", "Rojo", "Clark Kent", "DC", "Superheroe", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-70",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-70.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-71",
-  "name": "",
+  "name": "Batman 1",
   "img": "catalogImgs/06-71.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-72",
-  "name": "",
+  "name": "Batman 2",
   "img": "catalogImgs/06-72.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-73",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-73.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-74",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-74.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Azul", "Blue", "Fuego", "Fire", "Incendio", "Llamas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-75",
-  "name": "",
+  "name": "batman",
   "img": "catalogImgs/06-75.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-76",
-  "name": "",
+  "name": "Batimovil",
   "img": "catalogImgs/06-76.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batimovil", "Batmobile"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-77",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-77.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-78",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-78.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-79",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-79.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-80",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-80.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-81",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-81.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Batman que rie", "Batman Who Laughs"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-82",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-82.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-83",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-83.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-84",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-84.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-85",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-85.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón", "James Gordon"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-86",
-  "name": "",
+  "name": "Hawkman",
   "img": "catalogImgs/06-86.png",
-  "keys": [],
+  "keys": ["hawkman","DC", "Superheroe", "Comic", "Historieta","Hombre pajaro", "Birdman", "Hombre ave", "Hombre halcon", "Hombre pajaro"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-87",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-87.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón", "Supergirl", "Super girl", "Kara Zor-El"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-88",
-  "name": "",
+  "name": "Batman que ríe",
   "img": "catalogImgs/06-88.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Batman que rie", "Batman Who Laughs", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-89",
-  "name": "",
+  "name": "Lex Luthor",
   "img": "catalogImgs/06-89.png",
-  "keys": [],
+  "keys": ["Lex Luthor", "DC", "Superheroe", "Comic", "Historieta","Villano", "Calvo", "Calva", "Calvos", "Calvas", "Superman"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-90",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-90.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Batman que rie", "Batman Who Laughs"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-91",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-91.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Batman que rie", "Batman Who Laughs"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-92",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-92.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Batman que rie", "Batman Who Laughs"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-93",
-  "name": "",
+  "name": "Three Jokers 1",
   "img": "catalogImgs/06-93.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Three Jokers", "Tres Guasones", "Tres Jokers"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-94",
-  "name": "",
+  "name": "Three Jokers 2",
   "img": "catalogImgs/06-94.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Three Jokers", "Tres Guasones", "Tres Jokers"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-95",
-  "name": "",
+  "name": "Three Jokers",
   "img": "catalogImgs/06-95.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Three Jokers", "Tres Guasones", "Tres Jokers"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-96",
-  "name": "",
+  "name": "Three Jokers",
   "img": "catalogImgs/06-96.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Three Jokers", "Tres Guasones", "Tres Jokers"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-97",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-97.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-98",
-  "name": "",
+  "name": "Brain",
   "img": "catalogImgs/06-98.png",
-  "keys": [],
+  "keys": ["Joker", "Guason", "Guasón", "DC", "Payaso", "Superheroe", "Villano", "Comic", "Historieta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-99",
-  "name": "",
+  "name": "The Batman",
   "img": "catalogImgs/06-99.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "The Batman", "Robert Pattinson", "Matt Reeves", "Rojo", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-100",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-100.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Renacimiento", "Reborn"],  
   "featured": false,
   "date": "2025-02-25"
 },
