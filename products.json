@@ -241,193 +241,193 @@
 },
 {
   "id": "01-31",
-  "name": "",
+  "name": "Cierre",
   "img": "catalogImgs/01-31.png",
-  "keys": [],
+  "keys": ["negro","remera","cremallera","cierre","camisa","blanco","patron","black","white","vestimenta","ropa","oscuro","oscuridad"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-32",
-  "name": "",
+  "name": "Cafe",
   "img": "catalogImgs/01-32.png",
-  "keys": [],
+  "keys": ["cafe","café","granos","bebida","espacio","marrón","marron"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-33",
-  "name": "",
+  "name": "Naranjas",
   "img": "catalogImgs/01-33.png",
-  "keys": [],
+  "keys": ["frutas","verduleria","arbol","sano","bebida","naranja","blanco"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-34",
-  "name": "",
+  "name": "Moras",
   "img": "catalogImgs/01-34.png",
-  "keys": [],
+  "keys": ["frutas","verduleria","arbol","arból","sano","bebida","azul","negro","celeste"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-35",
-  "name": "",
+  "name": "Alfajor",
   "img": "catalogImgs/01-35.png",
-  "keys": [],
+  "keys": ["comida","cena","desayuno","almuerzo","espacio","merienda","alfajor","kiosco","marron"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-36",
-  "name": "",
+  "name": "Columnas",
   "img": "catalogImgs/01-36.png",
-  "keys": [],
+  "keys": ["columna","arquitectura","blanco","columnas","romano","paisaje"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-37",
-  "name": "",
+  "name": "Barras",
   "img": "catalogImgs/01-37.png",
-  "keys": [],
+  "keys": ["barras","barra","linea","lineas","aramarillo","patron","pintura","codigo","código","negro","patron"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-38",
-  "name": "",
+  "name": "Arte",
   "img": "catalogImgs/01-38.png",
-  "keys": [],
+  "keys": ["psicologia","rojo","formas","lineas","abstracto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-40",
-  "name": "",
+  "name": "Arte 1",
   "img": "catalogImgs/01-40.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","cara","caras","amarillo","pensamiento","dilema"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-41",
-  "name": "",
+  "name": "Arte 2",
   "img": "catalogImgs/01-41.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","cara","caras","amarillo","pensamiento","dilema"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-42",
-  "name": "",
+  "name": "Arte 3",
   "img": "catalogImgs/01-42.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","cara","caras","negro","pensamiento","dilema","planeta","universo","mundo","horizonte"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-43",
-  "name": "",
+  "name": "Arte 4",
   "img": "catalogImgs/01-43.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","cara","caras","amarillo","pensamiento","dilema","reloj","paisaje"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-44",
-  "name": "",
+  "name": "Arte 5",
   "img": "catalogImgs/01-44.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","rosa","pensamiento","dilema"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-45",
-  "name": "",
+  "name": "Arte 6",
   "img": "catalogImgs/01-45.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","Pingüinos","blanco","pensamiento","dilema"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-46",
-  "name": "",
+  "name": "Arte 7",
   "img": "catalogImgs/01-46.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","nubes","nube","sol","rojo","paisaje","amarillo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-47",
-  "name": "",
+  "name": "Arte 8",
   "img": "catalogImgs/01-47.png",
-  "keys": [],
+  "keys": ["abstracto","figuras","formas","computadora","amarillo","pensamiento","dilema","pc","carpetas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-48",
-  "name": "",
+  "name": "Arte 9",
   "img": "catalogImgs/01-48.png",
-  "keys": [],
+  "keys": ["blanco","cara","caras","blanco","vacio","exitencial","origen","abstracto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-49",
-  "name": "",
+  "name": "Arte 10",
   "img": "catalogImgs/01-49.png",
-  "keys": [],
+  "keys": ["blanco","cara","caras","blanco","vacio","exitencial","origen","abstracto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-50",
-  "name": "",
+  "name": "Arte 11",
   "img": "catalogImgs/01-50.png",
-  "keys": [],
+  "keys": ["blanco","cara","caras","blanco","vacio","exitencial","origen","abstracto","figuras","formas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-51",
-  "name": "",
+  "name": "Arte 12",
   "img": "catalogImgs/01-51.png",
-  "keys": [],
+  "keys": ["blanco","cara","caras","blanco","vacio","exitencial","origen","abstracto","figuras","formas", "manos", "mano"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-52",
-  "name": "",
+  "name": "Arte 13",
   "img": "catalogImgs/01-52.png",
-  "keys": [],
+  "keys": ["amarillo","vacio","exitencial","origen","abstracto","figuras","formas", "manos","geometria", "mano"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-53",
-  "name": "",
+  "name": "Arte 14",
   "img": "catalogImgs/01-53.png",
-  "keys": [],
+  "keys": ["amarillo","vacio","exitencial","origen","abstracto","figuras","formas", "manos","geometria", "mano","rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-54",
-  "name": "",
+  "name": "Cactus ",
   "img": "catalogImgs/01-54.png",
-  "keys": [],
+  "keys": ["planta","cactus","desierto","rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-55",
-  "name": "",
+  "name": "Escaleras",
   "img": "catalogImgs/01-55.png",
-  "keys": [],
+  "keys": ["edificio","arquitectura","patron","naranja","ventanas","escaleras","subida","fotografia","fotos"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -435,719 +435,703 @@
   "id": "01-56",
   "name": "",
   "img": "catalogImgs/01-56.png",
-  "keys": [],
+  "keys": ["edificio","arquitectura","patron","naranja","escaleras","subida","fotografia","fotos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-57",
-  "name": "",
+  "name": "Abstracto",
   "img": "catalogImgs/01-57.png",
-  "keys": [],
+  "keys": ["negro","puntos","figura","formas","patron","patrones","abstracto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-58",
-  "name": "",
+  "name": "Abstracto 2",
   "img": "catalogImgs/01-58.png",
-  "keys": [],
+  "keys": ["blanco","puntos","figura","formas","patron","patrones","abstracto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-59",
-  "name": "",
+  "name": "Pez",
   "img": "catalogImgs/01-59.png",
-  "keys": [],
+  "keys": ["negro","pez","figura","formas","patron","patrones","peces"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-60",
-  "name": "",
+  "name": "Tentáculos",
   "img": "catalogImgs/01-60.png",
-  "keys": [],
+  "keys": ["rojo","mar","océano","tentaculos","calamar","miedo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-61",
-  "name": "",
+  "name": "Arquitectura",
   "img": "catalogImgs/01-61.png",
-  "keys": [],
+  "keys": ["arquitectura","edificio","lineas","patron","blanco","ventanas","escaleras","fotografia","fotos","rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-62",
-  "name": "",
+  "name": "Arquitectura 2",
   "img": "catalogImgs/01-62.png",
-  "keys": [],
+  "keys": ["arquitectura","edificio","lineas","patron","blanco","ventanas","escaleras","fotografia","fotos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-63",
-  "name": "",
+  "name": "Arquitectura 3 ",
   "img": "catalogImgs/01-63.png",
-  "keys": [],
+  "keys": ["arquitectura","edificio","lineas","patron","blanco","ventanas","escaleras","fotografia","fotos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-64",
-  "name": "",
+  "name": "Arquitectura 4",
   "img": "catalogImgs/01-64.png",
-  "keys": [],
+  "keys": ["arquitectura","edificio","lineas","patron","blanco","celeste","fotografia","fotos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-65",
-  "name": "",
+  "name": "Vectores",
   "img": "catalogImgs/01-65.png",
-  "keys": [],
+  "keys": ["patron","poligonos","patrones","geometria","lineas","negro","lineas","formas","figuras"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-66",
-  "name": "",
+  "name": "Vectores 2",
   "img": "catalogImgs/01-66.png",
-  "keys": [],
+  "keys": ["patron","poligonos","patrones","geometria","lineas","blanco","linea","lineas","formas","figuras"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-67",
-  "name": "",
+  "name": "Vectores 3",
   "img": "catalogImgs/01-67.png",
-  "keys": [],
+  "keys": ["patron","poligonos","patrones","geometria","lineas","blanco","linea","lineas","formas","figuras","colores","vector","vectores"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-68",
-  "name": "",
+  "name": "Energy",
   "img": "catalogImgs/01-68.png",
-  "keys": [],
+  "keys": ["energia","autestima","positivo","suerte","amarillo","letras","motivacion","alegria"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-69",
-  "name": "",
+  "name": "Arcoíris",
   "img": "catalogImgs/01-69.png",
-  "keys": [],
+  "keys": ["rayas","franjas","colores","universo","estrellas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-70",
-  "name": "",
+  "name": "Ojo",
   "img": "catalogImgs/01-70.png",
-  "keys": [],
+  "keys": ["Ojo", "Eye", "Red", "Blue", "Rojo", "Azul", "Lineas", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-71",
-  "name": "",
+  "name": "Olas",
   "img": "catalogImgs/01-71.png",
-  "keys": [],
+  "keys": ["Waves", "Olas", "Texto", "Diseño", "Design", "Diseño grafico", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-72",
-  "name": "",
+  "name": "P",
   "img": "catalogImgs/01-72.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "01-73",
-  "name": "",
-  "img": "catalogImgs/01-73.png",
-  "keys": [],
+  "keys": ["P", "Letras", "Amarillo", "Yellow", "Texto", "Text", "Digital", "Patron", "Pattern", "Diseño Grafico"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-74",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-74.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-75",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-75.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-76",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-76.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-77",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-77.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas", "Zapato", "Zapatillas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-78",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-78.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-79",
-  "name": "",
+  "name": "Flamenco",
   "img": "catalogImgs/01-79.png",
-  "keys": [],
+  "keys": ["Flamenco", "Rosa", "Pink", "Tinta", "Ink", "Chorreado", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-80",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-80.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-81",
-  "name": "",
+  "name": "Rayas",
   "img": "catalogImgs/01-81.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Lineas", "Digital", "Diseño grafico", "Rayas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-82",
-  "name": "",
+  "name": "Franjas",
   "img": "catalogImgs/01-82.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Colores", "Colorido", "Lineas", "Digital", "Diseño grafico", "Arcoiris", "Rainbow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-83",
-  "name": "",
+  "name": "Abstracto",
   "img": "catalogImgs/01-83.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Amarillo", "Yellow", "Lineas", "Digital", "Diseño grafico"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-84",
-  "name": "",
+  "name": "Escaleras",
   "img": "catalogImgs/01-84.png",
-  "keys": [],
+  "keys": ["Escaleras", "Stairs", "Fotografia", "Arquitectura", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-85",
-  "name": "",
+  "name": "Escaleras",
   "img": "catalogImgs/01-85.png",
-  "keys": [],
+  "keys": ["Escaleras", "Stairs", "Fotografia", "Arquitectura", "Blanco", "Negro", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-86",
-  "name": "",
+  "name": "Color digital",
   "img": "catalogImgs/01-86.png",
-  "keys": [],
+  "keys": ["Digital Art", "Color", "Colores", "Colorido"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-87",
-  "name": "",
+  "name": "Color digital",
   "img": "catalogImgs/01-87.png",
-  "keys": [],
+  "keys": ["Digital Art", "Color", "Colores", "Colorido"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-88",
-  "name": "",
+  "name": "Abstracto",
   "img": "catalogImgs/01-88.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Puntos", "Puntillismo", "Azul", "BLue", "Cian", "Cyan"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-89",
-  "name": "",
+  "name": "Abstracto",
   "img": "catalogImgs/01-89.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Amarillo", "Rayas", "Lineas", "Blanco", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-90",
-  "name": "",
+  "name": "Paisaje",
   "img": "catalogImgs/01-90.png",
-  "keys": [],
+  "keys": ["Pasiaje", "Cañon", "Montañas", "Cielo", "Arte digital", "Digital art", "Azul", "Blue", "Naranja", "Orange"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-91",
-  "name": "",
+  "name": "Colectivo",
   "img": "catalogImgs/01-91.png",
-  "keys": [],
+  "keys": ["Colectivo", "Buss", "Pasajero", "Fotografia"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-92",
-  "name": "",
+  "name": "Bicicleta",
   "img": "catalogImgs/01-92.png",
-  "keys": [],
+  "keys": ["Gris", "Blanco", "Negro", "Black", "White", "Senda Peatonal", "Cruce", "Fotografia"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-93",
-  "name": "",
+  "name": "Uña",
   "img": "catalogImgs/01-93.png",
-  "keys": [],
+  "keys": ["Uña", "Nail", "Gris", "Gray", "Diseño", "Design"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-94",
-  "name": "",
+  "name": "Limones",
   "img": "catalogImgs/01-94.png",
-  "keys": [],
+  "keys": ["Limones", "Lemons", "Amarillo", "Yellow", "Azul", "Blue", "Frutas", "Fruit", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Celeste"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-95",
-  "name": "",
+  "name": "Poligonos",
   "img": "catalogImgs/01-95.png",
-  "keys": [],
+  "keys": ["Abstracto", "Abstract", "Diseño", "Design", "Arte Digital", "Digital Art", "Patron", "Pattern", "Colores", "Colors", "Poligonos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-96",
-  "name": "",
+  "name": "Tigre",
   "img": "catalogImgs/01-96.png",
-  "keys": [],
+  "keys": ["Tigre", "Tiger", "Animal", "Animales", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Naranja", "Orange", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-97",
-  "name": "",
+  "name": "Brain Storm",
   "img": "catalogImgs/01-97.png",
-  "keys": [],
+  "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Tormenta", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital", "Brain Storm", "Rayos"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-98",
-  "name": "",
+  "name": "Cerebro",
   "img": "catalogImgs/01-98.png",
-  "keys": [],
+  "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-99",
-  "name": "",
+  "name": "Cerebro",
   "img": "catalogImgs/01-99.png",
-  "keys": [],
+  "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Podrido", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-100",
-  "name": "",
+  "name": "Fuego",
   "img": "catalogImgs/01-100.png",
-  "keys": [],
+  "keys": ["Fuego", "Llama", "Calor", "Rojo", "Amarillo", "Naranja", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art", "Chispa", "Patron", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-101",
-  "name": "",
+  "name": "Colmillos",
   "img": "catalogImgs/01-101.png",
-  "keys": [],
+  "keys": ["Colmillos", "Vampiro", "Halloween", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-102",
-  "name": "",
+  "name": "Fantasmas",
   "img": "catalogImgs/01-102.png",
-  "keys": [],
+  "keys": ["Fantasmas", "Ghost", "Halloween", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-103",
-  "name": "",
+  "name": "Payaso",
   "img": "catalogImgs/01-103.png",
-  "keys": [],
+  "keys": ["Payaso", "Clown", "Circo", "Circus", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art", "Halloween"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-104",
-  "name": "",
+  "name": "Gato",
   "img": "catalogImgs/01-104.png",
-  "keys": [],
+  "keys": ["Gatos", "Gato", "Cat", "Animales", "Animal", "Rojo", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Halloween", "Red"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-105",
-  "name": "",
+  "name": "Dinosaurios",
   "img": "catalogImgs/01-105.png",
-  "keys": [],
+  "keys": ["Dinosaurios", "Dinosaurio", "Jurassic Park", "Jurassic World", "Amarillo", "Yellow", "Digital Art", "Arte digital", "Patron", "Pattern"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-106",
-  "name": "",
+  "name": "Ovnis",
   "img": "catalogImgs/01-106.png",
-  "keys": [],
+  "keys": ["Ovnis", "Ovni", "UFO", "Plato volador", "Platillo volador", "Matrix", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-107",
-  "name": "",
+  "name": "Ojos",
   "img": "catalogImgs/01-107.png",
-  "keys": [],
+  "keys": ["Ojos", "Eyes", "Mirada", "Look", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-108",
-  "name": "",
+  "name": "Margarita",
   "img": "catalogImgs/01-108.png",
-  "keys": [],
+  "keys": ["Margarita", "Flor", "Manos", "Zombie", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-109",
-  "name": "",
+  "name": "Ojos",
   "img": "catalogImgs/01-109.png",
-  "keys": [],
+  "keys": ["Ojos", "Eyes", "Mirada", "Look", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-110",
-  "name": "",
+  "name": "Calaveras",
   "img": "catalogImgs/01-110.png",
-  "keys": [],
+  "keys": ["Skulls", "Calaveras", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Muerte", "Muerto"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-111",
-  "name": "",
+  "name": "Tigre",
   "img": "catalogImgs/01-111.png",
-  "keys": [],
+  "keys": ["Tigre", "Tiger", "Animal", "Animales", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Naranja", "Orange", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-112",
-  "name": "",
+  "name": "Cebra",
   "img": "catalogImgs/01-112.png",
-  "keys": [],
+  "keys": ["Cebra", "Zebra", "Animal", "Animales", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Naranja", "Orange", "Celeste", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-113",
-  "name": "",
+  "name": "Bananas",
   "img": "catalogImgs/01-113.png",
-  "keys": [],
+  "keys": ["Bananas", "Platano", "Frutas", "Comida", "Amarillo", "Yellow", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Rosa", "Pink"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-114",
-  "name": "",
+  "name": "Motherboard",
   "img": "catalogImgs/01-114.png",
-  "keys": [],
+  "keys": ["Motherboard", "Placa Madre", "Computadora", "Tecnologia", "Circuito", "Circuit", "Informatica", "Computacion", "Tecnico", "PC", "Electronica"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-115",
-  "name": "",
+  "name": "Astronauta",
   "img": "catalogImgs/01-115.png",
-  "keys": [],
+  "keys": ["Astronauta", "Espacio", "Estrellas", "Luna", "Cohete", "Rojo", "Red", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-116",
-  "name": "",
+  "name": "San Basilio",
   "img": "catalogImgs/01-116.png",
-  "keys": [],
+  "keys": ["San Basilio", "Rusia", "Arquitectura", "Diseño", "Rosa", "Pink"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-117",
-  "name": "",
+  "name": "Canada Tower",
   "img": "catalogImgs/01-117.png",
-  "keys": [],
+  "keys": ["CN Tower", "Torre CN", "Canada", "Arquitectura", "Diseño", "Rosa", "Pink", "Grid", "Matriz"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-118",
-  "name": "",
+  "name": "Pintor",
   "img": "catalogImgs/01-118.png",
-  "keys": [],
+  "keys": ["Pintor", "Paint", "Pintura", "Arte", "Art", "Diseño", "Design", "Arte Digital", "Digital Art","Rojo", "Red", "Azul", "Blue", "Rodillo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-119",
-  "name": "",
+  "name": "Rubik",
   "img": "catalogImgs/01-119.png",
-  "keys": [],
+  "keys": ["Rubik", "Cubo", "Puzle", "Puzzle", "Juego", "Game", "Color", "Colorido", "Diseño", "Design", "Pattern", "Patron", "Abstracto", "Arte Digital", "Digital Art", "Colorido", "Colores", "Colorful", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-120",
-  "name": "",
+  "name": "Avión",
   "img": "catalogImgs/01-120.png",
-  "keys": [],
+  "keys": ["Avion", "Cielo", "Rayos", "Capitan", "Aereo", "Vuelo", "Volar", "Aeropuerto", "Aerolinea", "Avioneta", "Jet"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-121",
-  "name": "",
+  "name": "Geometría",
   "img": "catalogImgs/01-121.png",
-  "keys": [],
+  "keys": ["Figuras", "Formas", "Geometria", "Geometrico", "Colores", "Colorido", "Diseño", "Design", "Pattern", "Patron", "Abstracto", "Arte Digital", "Digital Art"], 
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-122",
-  "name": "",
+  "name": "Arte",
   "img": "catalogImgs/01-122.png",
-  "keys": [],
-  "featured": false,
-  "date": "2025-02-25"
-},
-{
-  "id": "01-123",
-  "name": "",
-  "img": "catalogImgs/01-123.png",
-  "keys": [],
+  "keys": ["Noche", "Estrellas", "Moon", "Luna", "Azul", "Blue", "Arte Digital"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-125",
-  "name": "",
+  "name": "Fun",
   "img": "catalogImgs/01-125.png",
-  "keys": [],
+  "keys": ["Positivo", "Celeste", "Azul", "Texto", "Text", "Diseño", "Design", "Blue", "Colorido", "Arcoiris", "Rainbow", "Fun", "Divertido"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-126",
-  "name": "",
+  "name": "Vibes",
   "img": "catalogImgs/01-126.png",
-  "keys": [],
+  "keys": ["Vibes", "Vibras", "Positivo", "Naranja", "Orange", "Texto", "Text", "Diseño", "Design"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-127",
-  "name": "",
+  "name": "Paciencia",
   "img": "catalogImgs/01-127.png",
-  "keys": [],
+  "keys": ["Paciencia", "Patience", "Text", "Texto", "Diseño", "Design", "Pattern", "Rosa", "Pink"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-128",
-  "name": "",
+  "name": "Ojos",
   "img": "catalogImgs/01-128.png",
-  "keys": [],
+  "keys": ["Ojos", "Personas", "Abstracto", "Arte digital", "Digital art", "Diseño", "Design", "Pattern", "Patron", "Negro", "Blanco", "Black", "White"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-129",
-  "name": "",
+  "name": "Smile",
   "img": "catalogImgs/01-129.png",
-  "keys": [],
+  "keys": ["Smile", "Emoji", "Sonrrisa", "Amarillo", "Azul", "Yellow", "Blue", "Cara", "Face", "Happy", "Feliz", "Diseño", "Design", "Pattern", "Patron"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-130",
-  "name": "",
+  "name": "Nubes",
   "img": "catalogImgs/01-130.png",
-  "keys": [],
+  "keys": ["Nubes", "Clouds", "Negro", "Black", "Espacio"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-131",
-  "name": "",
+  "name": "Café",
   "img": "catalogImgs/01-131.png",
-  "keys": [],
+  "keys": ["Cafe", "Coffee", "Taza", "Cup", "Cuppa", "Cuppa Tea", "Cuppa Tea", "Te", "Naranja", "Orange", "Diseño", "Design", "Espiral"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-132",
-  "name": "",
+  "name": "Taza",
   "img": "catalogImgs/01-132.png",
-  "keys": [],
+  "keys": ["Abstracto", "Diseño", "Rojo", "Red", "Diseño grafico", "Graphic Design", "Design", "Pattern", "Patron", "Color", "Colorful", "Cafe", "Coffee", "Taza", "Cup", "Cuppa", "Cuppa Tea", "Cuppa Tea", "Te"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-133",
-  "name": "",
+  "name": "Abstracto",
   "img": "catalogImgs/01-133.png",
-  "keys": [],
+  "keys": ["Abstracto", "Diseño", "Rojo", "Red", "Diseño grafico", "Graphic Design", "Design", "Pattern", "Patron", "Color", "Colorful"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-134",
-  "name": "",
+  "name": "Té",
   "img": "catalogImgs/01-134.png",
-  "keys": [],
+  "keys": ["Te", "Tea", "Taza", "Merienda", "Cafe", "Cup", "Cuppa", "Cuppa Tea", "Cuppa Tea"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-135",
-  "name": "",
+  "name": "Laberinto",
   "img": "catalogImgs/01-135.png",
-  "keys": [],
+  "keys": ["Laberinto", "Rojo", "Red", "Diseño"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-136",
-  "name": "",
+  "name": "Tipografia",
   "img": "catalogImgs/01-136.png",
-  "keys": [],
+  "keys": ["Tipografia", "Diseño grafico", "Red", "A", "Letra", "Letter", "Alphabet", "Abecedario", "Type", "Font", "Graphic Design", "Design"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-137",
-  "name": "",
+  "name": "Arcoíris",
   "img": "catalogImgs/01-137.png",
-  "keys": [],
+  "keys": ["Arcoiris", "Rainbow", "Color", "Colores", "Colorido", "Colorful", "Rain", "Lluvia", "Nubes", "Clouds", "Sky", "Cielo", "Nature", "Naturaleza", "Rainy", "Rainbow", "Color", "Colores", "Colorido", "Colorful", "Rain", "Lluvia", "Nubes", "Clouds", "Sky", "Cielo", "Nature", "Naturaleza", "Rainy"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-138",
-  "name": "",
+  "name": "Alien",
   "img": "catalogImgs/01-138.png",
-  "keys": [],
+  "keys": ["Alien", "Extraterrestre", "Space", "Espacio", "UFO", "OVNI", "Alienigena", "Marciano", "Patron", "Pattern", "Verde", "Blanco"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-139",
-  "name": "",
+  "name": "TV",
   "img": "catalogImgs/01-139.png",
-  "keys": [],
+  "keys": ["TV", "Error", "Color", "Interrupcion", "Pantalla", "Televisor", "Television", "Ruido", "Ruido", "Noise", "Static", "Pantalla", "Screen", "Error", "Color", "Interrupcion", "Pantalla", "Televisor", "Television", "Ruido", "Ruido", "Noise", "Static", "Pantalla", "Screen", "Error"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-140",
-  "name": "",
+  "name": "Celuloide",
   "img": "catalogImgs/01-140.png",
-  "keys": [],
+  "keys": ["Celuloide", "Film", "Pelicula", "Cine", "Movie"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-142",
-  "name": "",
+  "name": "Ferrocarril",
   "img": "catalogImgs/01-142.png",
-  "keys": [],
+  "keys": ["Ferrocarril", "Tren", "Ferroviario", "Train", "Old", "Vintage", "Locomotora", "Locomotive", "Vapor", "Steam", "Viejo", "Antiguo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-143",
-  "name": "",
+  "name": "Ferrocarril",
   "img": "catalogImgs/01-143.png",
-  "keys": [],
+  "keys": ["Ferrocarril", "Tren", "Ferroviario", "Train", "Old", "Vintage", "Locomotora", "Locomotive", "Vapor", "Steam", "Viejo", "Antiguo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-144",
-  "name": "",
+  "name": "Ferrocarril",
   "img": "catalogImgs/01-144.png",
-  "keys": [],
+  "keys": ["Ferrocarril", "Tren", "Ferroviario", "Train", "Old", "Vintage", "Locomotora", "Locomotive", "Vapor", "Steam", "Viejo", "Antiguo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-145",
-  "name": "",
+  "name": "Kanagawa",
   "img": "catalogImgs/01-145.png",
-  "keys": [],
+  "keys": ["Ola", "Mar", "Oceano", "Arte", "Kanagawa", "Katsushika Hokusai", "Monte Fuji"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-146",
-  "name": "",
+  "name": "Kanagawa",
   "img": "catalogImgs/01-146.png",
-  "keys": [],
+  "keys": ["Ola", "Mar", "Oceano", "Arte", "Kanagawa", "Katsushika Hokusai", "Monte Fuji"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "01-147",
-  "name": "",
+  "name": "Kanagawa",
   "img": "catalogImgs/01-147.png",
-  "keys": [],
+  "keys": ["Ola", "Mar", "Oceano", "Arte", "Kanagawa", "Katsushika Hokusai", "Monte Fuji"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -1833,6 +1817,14 @@
   "date": "2025-02-25"
 },
 {
+  "id": "04-16",
+  "name": "Michael J",
+  "img": "catalogImgs/04-14.png",
+  "keys": ["Michael Jakson", "Pop", "Musica", "Music", "Rock", "Banda", "Cantante", "Baile", "Danza", "Bailarin"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
   "id": "05-1",
   "name": "Harry Potter",
   "img": "catalogImgs/05-1.png",
@@ -2298,9 +2290,9 @@
 },
 {
   "id": "06-54",
-  "name": "Dr Manhattan",
+  "name": "Rick & Morty",
   "img": "catalogImgs/06-54.png",
-  "keys": ["Watchman", "Watchmen", "Dr. Manhattan", "Dr Manhattan","Doctor Manhattan", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta"],
+  "keys": ["Watchman", "Watchmen", "Dr. Manhattan", "Dr Manhattan","Doctor Manhattan", "Alan Moore", "DC", "Epacio", "Estrellas", "Negro", "Black", "Superheroe", "Superhero", "Comic", "Historieta", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Mr Meeseeks"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -2674,457 +2666,465 @@
 },
 {
   "id": "06-101",
-  "name": "",
+  "name": "Batman Y1 1",
   "img": "catalogImgs/06-101.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Frank Miller", "David Mazzucchelli"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-102",
-  "name": "",
+  "name": "Batman Y1 2",
   "img": "catalogImgs/06-102.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Frank Miller", "David Mazzucchelli"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-103",
-  "name": "",
+  "name": "Batman Y1 3",
   "img": "catalogImgs/06-103.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Frank Miller", "David Mazzucchelli"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-104",
-  "name": "",
+  "name": "Batman Y1 4",
   "img": "catalogImgs/06-104.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Frank Miller", "David Mazzucchelli"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-105",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-105.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Red", "Rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-106",
-  "name": "",
+  "name": "The Batman",
   "img": "catalogImgs/06-106.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "The batman", "Robert Pattinson", "Matt Reeves"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-107",
-  "name": "",
+  "name": "Dos Caras",
   "img": "catalogImgs/06-107.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Dos Caras", "Two Face", "Harvey Dent"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-108",
-  "name": "",
+  "name": "Criatura Nocturna 1",
   "img": "catalogImgs/06-108.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Criatura Nocturna", "Night Crature"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-109",
-  "name": "",
+  "name": "Criatura Nocturna 2",
   "img": "catalogImgs/06-109.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Criatura Nocturna", "Night Crature"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-110",
-  "name": "",
+  "name": "Criatura Nocturna 3",
   "img": "catalogImgs/06-110.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Criatura Nocturna", "Night Crature"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-111",
-  "name": "",
+  "name": "Criatura Nocturna 4",
   "img": "catalogImgs/06-111.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Criatura Nocturna", "Night Crature"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-112",
-  "name": "",
+  "name": "Criatura Nocturna 5",
   "img": "catalogImgs/06-112.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Criatura Nocturna", "Night Crature"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-113",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-113.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Bruce Wayne", "Bruno Diaz"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-114",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-114.png",
-  "keys": [],
+    "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-115",
-  "name": "",
+  "name": "Catwoman",
   "img": "catalogImgs/06-115.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Catwoman", "Gatubela"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-116",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-116.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-117",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-117.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-118",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-118.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-119",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-119.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-120",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-120.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-121",
-  "name": "",
+  "name": "The Batman",
   "img": "catalogImgs/06-121.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "The Batman", "Robert Pattinson", "Matt Reeves"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-122",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-122.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-123",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-123.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-124",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-124.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Rojo", "Red", "Batimovil", "Batmobile"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-125",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-125.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Blue", "Azul"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-126",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-126.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Rosa", "Pink"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-127",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-127.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-128",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-128.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-129",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-129.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-130",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-130.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-131",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-131.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-132",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-132.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-133",
-  "name": "",
+  "name": "Batman Beyond",
   "img": "catalogImgs/06-133.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-134",
-  "name": "",
+  "name": "Robin",
   "img": "catalogImgs/06-134.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-135",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-135.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Joker", "Guason", "Guasón"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-136",
-  "name": "",
+  "name": "Batman Croc",
   "img": "catalogImgs/06-136.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Croc", "Cocodrilo", "Killer Croc"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-137",
-  "name": "",
+  "name": "Freeze",
   "img": "catalogImgs/06-137.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Freeze", "Frio", "Mr Freeze"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-138",
-  "name": "",
+  "name": "Freeze",
   "img": "catalogImgs/06-138.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Freeze", "Frio", "Mr Freeze"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-139",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-139.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-140",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-140.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Verde", "Green"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-141",
-  "name": "",
+  "name": "Spiderman",
   "img": "catalogImgs/06-141.png",
-  "keys": [],
+  "keys": ["Spiderman", "Marvel", "Superheroe", "Comic", "Historieta","Araña", "Arania", "Peter Parker", "Miles Morales", "Pop", "TV"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-142",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-142.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Amarillo", "Yellow", "Fuego", "Fire", "Incendio", "Llamas", "Batmobile", "Batimovil"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-143",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-143.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Amarillo", "Yellow", "Fuego", "Fire", "Incendio", "Llamas"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-144",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-144.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Red", "Rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-145",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-145.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Rosa", "Pink", "Magenta"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-146",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-146.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Red", "Rojo"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-147",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-147.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Gotham", "Ciudad Gotica"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-148",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-148.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-149",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-149.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Red", "Rojo", "Year Zero", "Año Cero", "Arco y Flecha"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-150",
-  "name": "",
+  "name": "Riddler",
   "img": "catalogImgs/06-150.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Riddler", "Enigma", "Adivinanza", "Riddle", "Puzzle", "Acertijo", "Violeta", "Purple"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-151",
-  "name": "",
+  "name": "Riddler",
   "img": "catalogImgs/06-151.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Riddler", "Enigma", "Adivinanza", "Riddle", "Puzzle", "Acertijo", "Violeta", "Purple"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-152",
-  "name": "",
+  "name": "Riddler",
   "img": "catalogImgs/06-152.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Riddler", "Enigma", "Adivinanza", "Riddle", "Puzzle", "Acertijo", "Violeta", "Purple"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-153",
-  "name": "",
+  "name": "Riddler",
   "img": "catalogImgs/06-153.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Riddler", "Enigma", "Adivinanza", "Riddle", "Puzzle", "Acertijo", "Violeta", "Purple"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-154",
-  "name": "",
+  "name": "Riddler",
   "img": "catalogImgs/06-154.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Riddler", "Enigma", "Adivinanza", "Riddle", "Puzzle", "Acertijo", "Violeta", "Purple"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-155",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-155.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-156",
-  "name": "",
+  "name": "Batman",
   "img": "catalogImgs/06-156.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 },
 {
   "id": "06-157",
-  "name": "",
+  "name": "Joker",
   "img": "catalogImgs/06-157.png",
-  "keys": [],
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Joker", "Guason", "Guasón", "Heath Ledger", "Verde", "Green", "Cian", "Cyan"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "06-158",
+  "name": "Batman",
+  "img": "catalogImgs/06-158.png",
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
   "date": "2025-02-25"
 }
