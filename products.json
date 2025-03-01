@@ -1257,9 +1257,9 @@
 },
 {
   "id": "02-16",
-  "name": "Picklerick",
+  "name": "PickleRick",
   "img": "catalogImgs/02-16.png",
-  "keys": ["Picklerick", "Pepino", "Pepinillo", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Verde", "Green", "Negro", "Black"],
+  "keys": ["Picklerick", "Pickle Rick", "Pepino", "Pepinillo", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Beth", "Jerry", "Bird Person", "Mr. Meeseeks", "Pickle Rick", "Evil Morty", "C-137", "Rick", "Rick y Morty", "Rick and Morty", "Rick & Morty", "Morty", "Summer", "Verde", "Green", "Negro", "Black"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -1819,7 +1819,7 @@
 {
   "id": "04-16",
   "name": "Michael J",
-  "img": "catalogImgs/04-14.png",
+  "img": "catalogImgs/04-16.png",
   "keys": ["Michael Jakson", "Pop", "Musica", "Music", "Rock", "Banda", "Cantante", "Baile", "Danza", "Bailarin"],
   "featured": false,
   "date": "2025-02-25"
@@ -2458,7 +2458,7 @@
 },
 {
   "id": "06-75",
-  "name": "batman",
+  "name": "Batman",
   "img": "catalogImgs/06-75.png",
   "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago"],
   "featured": false,
