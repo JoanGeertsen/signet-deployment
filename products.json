@@ -1417,10 +1417,58 @@
   "date": "2025-02-25"
 },
 {
+  "id": "02-34",
+  "name": "Severance",
+  "img": "catalogImgs/02-34.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul" ], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
+  "id": "02-35",
+  "name": "Severance",
+  "img": "catalogImgs/02-35.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "logo"], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
+  "id": "02-36",
+  "name": "Severance",
+  "img": "catalogImgs/02-36.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Globo", "Ojo", "Eye"], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
+  "id": "02-37",
+  "name": "Severance",
+  "img": "catalogImgs/02-37.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Correr", "Running", "Ascensor", "Elevator"], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
+  "id": "02-38",
+  "name": "Severance",
+  "img": "catalogImgs/02-38.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Macrodata Refining", "Grieta"], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
+  "id": "02-39",
+  "name": "Severance",
+  "img": "catalogImgs/02-39.png",
+  "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Macrodata Refining", "Negro", "Black"], 
+  "featured": true,
+  "date": "2025-03-03"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
-  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro"],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -1428,7 +1476,7 @@
   "id": "03-2",
   "name": "Sonic",
   "img": "catalogImgs/03-2.png",
-  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
+  "keys": ["Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Sonic", "Videojuego", "Sega", "Retro", "Blue", "Azul", "Rings", "Anillos", "Tails", "Knuckles", "Robotnik", "Eggman", "Amy", "Shadow", "Silver", "Super Sonic", "Videojuego", "Sega", "Retro", "Azul", "Blue"],
   "featured": false,
   "date": "2025-02-25"
 },
