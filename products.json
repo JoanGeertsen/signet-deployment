@@ -1539,15 +1539,15 @@
 {
   "id": "02-46",
   "name": "The Brutalist",
-  "img": "catalogImgs/02-45.png",
+  "img": "catalogImgs/02-46.png",
   "keys": ["The Brutalist", "El Brutalista", "Brutalismo", "Arquitectura", "Pelicula", "Movie", "Film", "Brady Corbet", "Joachim Trier", "Arquitecto", "Edificio", "Building", "Concreto", "Concrete"], 
   "featured": false,
   "date": "2025-03-24"
 },
 {
-  "id": "02-46",
+  "id": "02-47",
   "name": "VHS",
-  "img": "catalogImgs/02-45.png",
+  "img": "catalogImgs/02-47.png",
   "keys": ["VHS", "Cassete", "Casettes", "Videocassette", "Videocasette", "Videotape", "Videograbadora", "VCR", "VHS", "Cassete", "Casettes", "Videocassette", "Videocasette", "Videotape", "Videograbadora", "VCR"], 
   "featured": false,
   "date": "2025-03-24"
