@@ -1517,7 +1517,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-34.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul" ], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
@@ -1525,7 +1525,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-35.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "logo"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
@@ -1533,7 +1533,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-36.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Globo", "Ojo", "Eye"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
@@ -1541,7 +1541,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-37.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Correr", "Running", "Ascensor", "Elevator"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
@@ -1549,7 +1549,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-38.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Azul", "Macrodata Refining", "Grieta"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
@@ -1557,7 +1557,7 @@
   "name": "Severance",
   "img": "catalogImgs/02-39.png",
   "keys": ["Severance", "Lumon", "Apple TV", "Blue", "Mark Scout", "Adam Scott", "Macrodata Refining", "Negro", "Black"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-03-03"
 },
 {
