@@ -1160,6 +1160,78 @@
   "date": "2025-03-24"
 },
 {
+  "id": "01-151",
+  "name": "Perro salchicha 1",
+  "img": "catalogImgs/01-151.png",
+  "keys": ["Perro", "Cachorro", "Perrito", "Cachorrito", "Perro Salchicha", "Salchicha", "Dachshund", "Perro salchicha", "Rojo", "Amarillo", "Red", "Yellow"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-152",
+  "name": "Perro salchicha 2",
+  "img": "catalogImgs/01-152.png",
+  "keys": ["Perro", "Cachorro", "Perrito", "Cachorrito", "Perro Salchicha", "Salchicha", "Dachshund", "Perro salchicha", "Rojo", "Amarillo", "Red", "Yellow"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-153",
+  "name": "Perro salchicha",
+  "img": "catalogImgs/01-153.png",
+  "keys": ["Perro", "Cachorro", "Perrito", "Cachorrito", "Perro Salchicha", "Salchicha", "Dachshund", "Perro salchicha", "HotDog", "Hot Dog", "Pancho"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-154",
+  "name": "Perro salchicha",
+  "img": "catalogImgs/01-154.png",
+  "keys": ["Perro", "Cachorro", "Perrito", "Cachorrito", "Perro Salchicha", "Salchicha", "Dachshund", "Perro salchicha", "Morado", "Violeta", "Purple"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-155",
+  "name": "Jirafa",
+  "img": "catalogImgs/01-155.png",
+  "keys": ["Jiraga", "Giraffe", "Animal", "Animales", "Diseño", "Design", "Arte Digital", "Digital Art", "Amarillo", "Yellow"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-156",
+  "name": "Pancho",
+  "img": "catalogImgs/01-156.png",
+  "keys": ["HotDog", "Hot Dog", "Pancho", "Pan", "Street Food", "Comida Callejera", "Diseño", "Design", "Salchicha"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-157",
+  "name": "Pasta",
+  "img": "catalogImgs/01-157.png",
+  "keys": ["Pasta", "Comida", "Food", "Italiano", "Italian", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-158",
+  "name": "Pasta",
+  "img": "catalogImgs/01-158.png",
+  "keys": ["Pasta", "Comida", "Food", "Italiano", "Italian", "Blue", "Azul"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
+  "id": "01-159",
+  "name": "Pasta",
+  "img": "catalogImgs/01-159.png",
+  "keys": ["Pasta", "Comida", "Food", "Italiano", "Italian", "Blue", "Azul", "Tenedor"],
+  "featured": false,
+  "date": "2025-04-3"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
