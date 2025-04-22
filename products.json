@@ -1225,9 +1225,9 @@
 },
 {
   "id": "01-159",
-  "name": "Pasta",
+  "name": "Perro salchicha",
   "img": "catalogImgs/01-159.png",
-  "keys": ["Pasta", "Comida", "Food", "Italiano", "Italian", "Blue", "Azul", "Tenedor"],
+  "keys": ["Perro", "Cachorro", "Perrito", "Cachorrito", "Perro Salchicha", "Salchicha", "Dachshund", "Perro salchicha"],
   "featured": false,
   "date": "2025-04-3"
 },
@@ -1278,6 +1278,94 @@
   "keys": ["La Noche Estrellada", "Starry Night", "Vincent Van Gogh", "Arte", "Art", "Pintura", "Painting", "Estrellas", "Stars", "Cielo", "Sky", "Azul", "Blue", "Luna", "Moon", "Noche"],
   "featured": false,
   "date": "2025-04-5"
+},
+{
+  "id": "01-167",
+  "name": "Abstracción de balcones",
+  "img": "catalogImgs/01-167.png",
+  "keys": ["Arquitectura", "Balcones", "Abstracto", "Diseño", "Arte digital", "Digital art", "Diseño grafico", "Graphic design", "Patron", "Pattern", "Azul", "Naranja", "Orange", "Blue"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-168",
+  "name": "Edificio",
+  "img": "catalogImgs/01-168.png",
+  "keys": ["Arquitectura","Diseño", "Azul", "Blue", "rojo", "Red"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-169",
+  "name": "Escaleras",
+  "img": "catalogImgs/01-169.png",
+  "keys": ["Arquitectura", "Escalera", "Escaleras", "Brutalismo", "Azul", "rojo", "Red", "Blue", "Hormigon"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-170",
+  "name": "Columna",
+  "img": "catalogImgs/01-170.png",
+  "keys": ["Arquitectura", "Columna", "Column", "Romano",  "rojo", "Red", "Jonico", "Dorico", "Romanos", "Griegos"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-172",
+  "name": "Patron",
+  "img": "catalogImgs/01-172.png",
+  "keys": ["Patron", "Pattern", "Diseño", "Design", "Arte digital", "Digital art", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-173",
+  "name": "Tabasco",
+  "img": "catalogImgs/01-173.png",
+  "keys": ["Picante", "Salsa", "Comida", "Food", "Mexicano", "Mexican", "Tabasco", "Rojo", "Red", "Amarillo", "Yellow", "Chile", "Patron", "Pattern"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-174",
+  "name": "Picante",
+  "img": "catalogImgs/01-174.png",
+  "keys": ["Picante", "Salsa", "Comida", "Food", "Mexicano", "Mexican", "Rojo", "Red", "Amarillo", "Yellow", "Chile", "Aji", "Patron", "Pattern"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-175",
+  "name": "Picante",
+  "img": "catalogImgs/01-175.png",
+  "keys": ["Picante", "Salsa", "Comida", "Food", "Mexicano", "Mexican", "Rosa", "Pink", "Chile", "Aji","Patron", "Pattern"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-176",
+  "name": "Bananas",
+  "img": "catalogImgs/01-176.png",
+  "keys": ["Patron", "Pattern", "Banana", "Bananas", "Amarillo", "Yellow", "Ecuador", "Fruta"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-177",
+  "name": "Contenedores",
+  "img": "catalogImgs/01-177.png",
+  "keys": ["Contenedor", "Container", "Transporte", "Transport", "Carga", "Cargo", "Maritimo", "Maritime", "Barco", "Ship", "Cargamento", "Camion", "Colores", "Industria"],
+  "featured": false,
+  "date": "2025-04-21"
+},
+{
+  "id": "01-178",
+  "name": "Deportes",
+  "img": "catalogImgs/01-178.png",
+  "keys": ["Deportes", "Sports", "Deporte", "Olimpiadas", "Olimpico", "Olympic", "Atletismo", "Athletics", "Carrera", "Running", "Correr", "Maraton", "Marathon", "Corredor", "Runner", "Natacion"],
+  "featured": false,
+  "date": "2025-04-21"
 },
 {
   "id": "02-1",
