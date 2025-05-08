@@ -1368,6 +1368,30 @@
   "date": "2025-04-21"
 },
 {
+  "id": "01-179",
+  "name": "Cartas",
+  "img": "catalogImgs/01-179.png",
+  "keys": ["Cartas", "Poker", "Baraja", "Juego", "Game", "Cartas", "Playing cards", "Poker", "Baraja", "Juego", "Game", "Cartas", "Playing cards", "Poker", "Baraja", "Juego", "Game", "Magia"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "01-180",
+  "name": "AS de Corazones",
+  "img": "catalogImgs/01-180.png",
+  "keys": ["Cartas", "Poker", "Baraja", "Juego", "Game", "Cartas", "Playing cards", "Poker", "Baraja", "Juego", "Game", "Cartas", "Playing cards", "Poker", "Baraja", "Juego", "Game", "Magia", "AS de corazones"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "01-181",
+  "name": "Ajedrez",
+  "img": "catalogImgs/01-181.png",
+  "keys": ["Ajedrez", "Chess", "Juego", "Game", "Tablero", "Board", "Piezas", "Pieces", "Rey", "Reina", "Reina", "Peon", "Caballo", "Torre", "Alfil", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -1889,6 +1913,30 @@
   "date": "2025-05-7"
 },
 {
+  "id": "02-64",
+  "name": "Psicosis",
+  "img": "catalogImgs/02-64.png",
+  "keys": ["Psicosis", "Psicopata", "Pelicula", "Cine", "Alfred Hitchcock", "Suspenso", "Suspense", "Rojo", "Red", "Bates Motel", "Norman Bates", "Madre", "Mother", "Cuchillo", "Knife", "Ducha", "Shower", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "02-65",
+  "name": "Psicosis",
+  "img": "catalogImgs/02-65.png",
+  "keys": ["Psicosis", "Psicopata", "Pelicula", "Cine", "Alfred Hitchcock", "Suspenso", "Suspense", "Rojo", "Red", "Bates Motel", "Norman Bates", "Madre", "Mother", "Cuchillo", "Knife", "Ducha", "Shower"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "02-66",
+  "name": "Psicosis",
+  "img": "catalogImgs/02-66.png",
+  "keys": ["Psicosis", "Psicopata", "Pelicula", "Cine", "Alfred Hitchcock", "Suspenso", "Suspense", "Rojo", "Red", "Bates Motel", "Norman Bates", "Madre", "Mother", "Cuchillo", "Knife", "Ducha", "Shower", "Red", "Rojo"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
@@ -2343,6 +2391,78 @@
   "keys": ["Harry Potter", "JK Rowling", "Ravenclaw", "Magia", "Mago", "Escoba", "Azul", "Blue", "Bruja", "Celeste"],
   "featured": false,
   "date": "2025-02-25"
+},
+{
+  "id": "05-7",
+  "name": "Hermione & Ron",
+  "img": "catalogImgs/05-7.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Ron", "Hermione"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-8",
+  "name": "Harry",
+  "img": "catalogImgs/05-8.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Sombrero seleccionador", "Sorting Hat"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-9",
+  "name": "Harry",
+  "img": "catalogImgs/05-9.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-10",
+  "name": "Harry",
+  "img": "catalogImgs/05-10.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Escalera"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-11",
+  "name": "Madriguera",
+  "img": "catalogImgs/05-11.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Madriguera Weasley", "Ron"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-12",
+  "name": "Ford Anglia",
+  "img": "catalogImgs/05-12.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Ford Anglia Weasley", "Ron"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-14",
+  "name": "Hagrid",
+  "img": "catalogImgs/05-14.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Hagrid", "Giant", "Half Giant", "Gigante"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-15",
+  "name": "Snape",
+  "img": "catalogImgs/05-15.png",
+  "keys": ["Harry Potter", "JK Rowling", "Slytherin", "Magia", "Mago", "Hogwarts", "Severus Snape", "Profesor", "Potions", "Pociones", "Maestro"],
+  "featured": false,
+  "date": "2025-05-8"
+},
+{
+  "id": "05-16",
+  "name": "Neville",
+  "img": "catalogImgs/05-16.png",
+  "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Neville Longbottom"],
+  "featured": false,
+  "date": "2025-05-8"
 },
 {
   "id": "06-1",
