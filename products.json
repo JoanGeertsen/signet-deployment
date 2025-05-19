@@ -1392,6 +1392,30 @@
   "date": "2025-05-8"
 },
 {
+  "id": "01-182",
+  "name": "Chocolate",
+  "img": "catalogImgs/01-182.png",
+  "keys": ["Chocolate", "Barra de chocolate", "Comida", "Food", "Golosina", "Dulce", "Cacao", "Kiosco", "Quiosco", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-05-18"
+},
+{
+  "id": "01-183",
+  "name": "Big Ben",
+  "img": "catalogImgs/01-183.png",
+  "keys": ["Big Ben", "Londres", "London", "Europa", "Ingles", "English", "Viajes", "Travel", "Turismo", "Arquitectura", "Edificio", "Reloj", "Watch", "Dibujo", "Draw", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-05-18"
+},
+{
+  "id": "01-184",
+  "name": "Lana",
+  "img": "catalogImgs/01-184.png",
+  "keys": ["Lana", "Wool", "Animal","Textil", "Textile", "Crochet", "Tejido"],
+  "featured": false,
+  "date": "2025-05-18"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -1937,6 +1961,22 @@
   "date": "2025-05-8"
 },
 {
+  "id": "02-67",
+  "name": "Friends",
+  "img": "catalogImgs/02-67.png",
+  "keys": ["Friends", "Serie", "TV", "Television", "Televisión", "Comedy", "Comedia", "Rachel Green", "Ross Geller", "Monica Geller", "Phoebe Buffay", "Chandler Bing", "Joey Tribbiani", "Central Perk"],
+  "featured": false,
+  "date": "2025-05-18"
+},
+{
+  "id": "02-68",
+  "name": "Gato de Cheshire",
+  "img": "catalogImgs/02-68.png",
+  "keys": ["Gato de Cheshire", "Cheshire Cat", "Alicia en el Pais de las Maravillas", "Alice in Wonderland", "Lewis Carroll", "Disney", "Gato", "Cat", "Sonrisa", "Smile", "Rosa", "Pink", "Violeta", "Violet"],
+  "featured": false,
+  "date": "2025-05-18"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
@@ -2463,6 +2503,14 @@
   "keys": ["Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Neville Longbottom"],
   "featured": false,
   "date": "2025-05-8"
+},
+{
+  "id": "05-17",
+  "name": "Biblioteca",
+  "img": "catalogImgs/05-17.png",
+  "keys": ["Biblioteca", "Libros", "Books", "Verde", "Green", "Libreria", "Patron", "Pattern"],
+  "featured": false,
+  "date": "2025-05-18"
 },
 {
   "id": "06-1",
