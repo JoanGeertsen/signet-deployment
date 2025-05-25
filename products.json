@@ -1416,6 +1416,30 @@
   "date": "2025-05-18"
 },
 {
+  "id": "01-186",
+  "name": "Limón",
+  "img": "catalogImgs/01-186.png",
+  "keys": ["Limon", "lemon", "Fruta", "Fruit", "Comida", "Food", "Amarillo", "Yellow", "Verde", "Green", "Rayas"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "01-187",
+  "name": " Óptico",
+  "img": "catalogImgs/01-187.png",
+  "keys": ["Verde", "Amarillo", "Green", "Yellow", "Patron", "Pattern", "Diseño", "Design", "Arte digital", "Digital art", "Efecto optico", "Optical effect", "Abstracto", "Abstract", "Efecto visual", "Psicodelico", "Psychedelic"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "01-188",
+  "name": " Patrón",
+  "img": "catalogImgs/01-188.png",
+  "keys": ["Rojo", "Red", "Patron", "Pattern", "Diseño", "Design", "Arte digital", "Digital art"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -1975,6 +1999,78 @@
   "keys": ["Gato de Cheshire", "Cheshire Cat", "Alicia en el Pais de las Maravillas", "Alice in Wonderland", "Lewis Carroll", "Disney", "Gato", "Cat", "Sonrisa", "Smile", "Rosa", "Pink", "Violeta", "Violet"],
   "featured": false,
   "date": "2025-05-18"
+},
+{
+  "id": "02-69",
+  "name": "Marge",
+  "img": "catalogImgs/02-69.png",
+  "keys": ["Marge Simpson", "The Simpsons", "Los Simpsons", "Marge", "Amarillo", "Yellow", "Fox", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-70",
+  "name": "Marge",
+  "img": "catalogImgs/02-70.png",
+  "keys": ["Homero Simpson", "The Simpsons", "Los Simpsons", "Homer", "Rosa", "Pink", "Fox", "Serie", "TV", "Television", "Televisión", "Cama", "Sueño"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-71",
+  "name": "Lista & Bart",
+  "img": "catalogImgs/02-71.png",
+  "keys": ["Lisa Simpson", "Bart Simpson", "The Simpsons", "Los Simpsons", "Celeste", "Azul", "Blue", "Fox", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-72",
+  "name": "Phineas y Ferb",
+  "img": "catalogImgs/02-72.png",
+  "keys": ["phineas y ferb", "Phineas and Ferb", "Disney", "Serie", "TV", "Television", "Televisión", "Naranja", "Orange", "Perry", "Platypus", "Platypus", "Pato", "Perry el Ornitorrinco", "Perry the Platypus"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-73",
+  "name": "Dom Dima Dom",
+  "img": "catalogImgs/02-73.png",
+  "keys": ["dom dima dom", "Los Padrinos Magicos",  "Serie", "TV", "Television", "Televisión", "Naranja", "Orange", "Timmy", "Cosmo", "Wanda", "Padrinos", "Magicos", "Fairy", "Godparents", "Fairy Godparents"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-74",
+  "name": "Garfield",
+  "img": "catalogImgs/02-74.png",
+  "keys": ["Garfield", "Gato",  "Serie", "TV", "Television", "Televisión", "Naranja", "Orange"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-75",
+  "name": "Pantera Rosa",
+  "img": "catalogImgs/02-75.png",
+  "keys": ["La Pantera Rosa",  "Serie", "TV", "Television", "Televisión", "Rosa", "Pink", "Pantera", "Pink Panther", "Pink"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-76",
+  "name": "Cartoon Network",
+  "img": "catalogImgs/02-76.png",
+  "keys": ["Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-05-25"
+},
+{
+  "id": "02-77",
+  "name": "Cartoon Network",
+  "img": "catalogImgs/02-77.png",
+  "keys": ["Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-05-25"
 },
 {
   "id": "03-1",
