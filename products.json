@@ -1440,6 +1440,94 @@
   "date": "2025-05-25"
 },
 {
+  "id": "01-189",
+  "name": "Naranjas",
+  "img": "catalogImgs/01-189.png",
+  "keys": ["Patron", "Pattern", "Naranjas", "Naranja", "Orange", "Fruta", "Fruit", "Comida", "Food"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-190",
+  "name": "Lego",
+  "img": "catalogImgs/01-190.png",
+  "keys": ["Patron", "Pattern", "Lego", "Bloques", "Blocks", "Juguete", "Toy", "Amarillo", "Yellow", "Negro", "Black", "Diseño", "Design", "Arte digital", "Digital art"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-191",
+  "name": "Rayos",
+  "img": "catalogImgs/01-191.png",
+  "keys": ["Patron", "Pattern", "Rayos", "Rayo", "Rayos", "Lightning", "Electricidad", "Electricity", "Blue", "Azul"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-192",
+  "name": "Fantasmas",
+  "img": "catalogImgs/01-192.png",
+  "keys": ["Patron", "Pattern", "Fantasmas", "Fantasma", "Ghost", "Halloween", "Espanto", "Miedo", "Terror", "Violeta", "Violet", "Morado", "Purple"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-193",
+  "name": "Donas azules",
+  "img": "catalogImgs/01-193.png",
+  "keys": ["Patron", "Pattern", "Design", "Diseño", "Donas", "Dona", "Donut", "Doughnut", "Azul", "Blue", "AMarillo", "Yellow"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-194",
+  "name": "Martini",
+  "img": "catalogImgs/01-194.png",
+  "keys": ["Martini", "Car", "Autos", "Coche", "Carrera", "Bebida", "Drink", "Alcohol", "Cocktail", "Coctel", "Vermouth", "Ginebra", "Gin", "F1", "Formula 1", "Carreras", "Racing", "Rojo", "Red", "Azul", "Blue"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-195",
+  "name": "Gulf",
+  "img": "catalogImgs/01-195.png",
+  "keys": ["Gulf", "Car", "Autos", "Coche", "Carrera", "68", "F1", "Formula 1", "Carreras", "Racing", "Naranja", "Orange", "Azul", "Blue", "Celeste", "Celeste", "Gulf Oil", "Gulf Racing", "Gulf Oil Racing"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-196",
+  "name": "Gulf",
+  "img": "catalogImgs/01-196.png",
+  "keys": ["Gulf", "Car", "Autos", "Coche", "Carrera", "68", "F1", "Formula 1", "Carreras", "Racing", "Naranja", "Orange", "Azul", "Blue", "Celeste", "Celeste", "Gulf Oil", "Gulf Racing", "Gulf Oil Racing"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-197",
+  "name": "McLaren Gulf",
+  "img": "catalogImgs/01-197.png",
+  "keys": ["McLaren", "Gulf", "Car", "Autos", "Coche", "Carrera", "F1", "Formula 1", "Carreras", "Racing", "Naranja", "Orange", "Azul", "Blue", "Celeste", "Celeste", "Gulf Oil", "Gulf Racing", "Gulf Oil Racing"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-198",
+  "name": "Alpine",
+  "img": "catalogImgs/01-198.png",
+  "keys": ["Alpine Racing", "Car", "Autos", "Coche", "Carrera", "F1", "Formula 1", "Carreras", "Racing", "Rosa", "Pink", "Azul", "Blue", "Franco Colapinto"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
+  "id": "01-199",
+  "name": "Ferrari",
+  "img": "catalogImgs/01-199.png",
+  "keys": ["Ferrari", "Car", "Autos", "Coche", "Carrera", "F1", "Formula 1", "Carreras", "Racing", "Amarillo", "Yellow", "Rojo", "Red", "Charles Leclerc", "Carlos Sainz", "Shell Oil", "Scuderia Ferrari", "Ferrari Racing"],
+  "featured": false,
+  "date": "2025-05-30"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -1837,7 +1925,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-48.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve", "Red", "Rojo"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1845,7 +1933,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-49.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve", "Azul", "Blue", "Celeste", "Cyan"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1853,7 +1941,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-50.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1861,7 +1949,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-51.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1869,7 +1957,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-52.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1877,7 +1965,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-53.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1885,7 +1973,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-54.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1893,7 +1981,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-55.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1901,7 +1989,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-56.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1909,7 +1997,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-57.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve", "Amarillo", "Yellow"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1917,7 +2005,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-58.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1925,7 +2013,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-59.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1933,7 +2021,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-60.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1941,7 +2029,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-61.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve", "Amarillo", "Yellow"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1949,7 +2037,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-62.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -1957,7 +2045,7 @@
   "name": "Eternauta",
   "img": "catalogImgs/02-63.png",
   "keys": ["El Eternauta", "Eternauta", "Comic", "Historieta", "Ciencia Ficcion", "Ciencia Ficción", "Guion", "Dibujo", "Comic Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Comic Argentino", "Historieta Argentina", "Guion Argentino", "Dibujo Argentino", "Netflix", "Serie", "Ricardo Darin", "Nieve", "Red", "Rojo"], 
-  "featured": true,
+  "featured": false,
   "date": "2025-05-7"
 },
 {
@@ -2068,7 +2156,6 @@
   "id": "02-77",
   "name": "Cartoon Network",
   "img": "catalogImgs/02-77.png",
-  "keys": ["Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión"],
   "featured": false,
   "date": "2025-05-25"
 },
@@ -2359,6 +2446,14 @@
   "keys": ["Portal", "Valve", "Aperture", "Wehealthy", "Space", "Espacio", "Moron", "Idiot"],
   "featured": false,
   "date": "2025-02-25"
+},
+{
+  "id": "03-37",
+  "name": "Planta Piraña",
+  "img": "catalogImgs/03-37.png",
+  "keys": ["Nintendo", "Mario", "Planta", "Planta Piraña", "Piranha Plant", "Super Mario", "Videojuego", "Gaming", "Consola", "Retro", "Retrogaming", "Rojo", "Red", "Mario Bross", "Mario Bros", "Nintendo Switch", "Nintendo 64", "Nintendo Gamecube", "Nintendo Wii", "Nintendo Wii U"],
+  "featured": false,
+  "date": "2025-05-30"
 },
 {
   "id": "04-1",
