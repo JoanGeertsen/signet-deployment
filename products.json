@@ -2098,7 +2098,7 @@
 },
 {
   "id": "02-70",
-  "name": "Marge",
+  "name": "Homero",
   "img": "catalogImgs/02-70.png",
   "keys": ["Homero Simpson", "The Simpsons", "Los Simpsons", "Homer", "Rosa", "Pink", "Fox", "Serie", "TV", "Television", "Televisión", "Cama", "Sueño"],
   "featured": false,
@@ -2106,7 +2106,7 @@
 },
 {
   "id": "02-71",
-  "name": "Lista & Bart",
+  "name": "Lisa & Bart",
   "img": "catalogImgs/02-71.png",
   "keys": ["Lisa Simpson", "Bart Simpson", "The Simpsons", "Los Simpsons", "Celeste", "Azul", "Blue", "Fox", "Serie", "TV", "Television", "Televisión"],
   "featured": false,
@@ -2702,6 +2702,54 @@
   "keys": ["Biblioteca", "Libros", "Books", "Verde", "Green", "Libreria", "Patron", "Pattern"],
   "featured": false,
   "date": "2025-05-18"
+},
+{
+  "id": "05-18",
+  "name": "1984",
+  "img": "catalogImgs/05-18.png",
+  "keys": ["1984", "George Orwell", "Libro", "Book", "Literatura", "Literature", "Distopia", "Dystopia", "Futuro", "Future", "Rojo", "Red", "Eye", "Ojo"],
+  "featured": false,
+  "date": "2025-06-15"
+},
+{
+  "id": "05-19",
+  "name": "Autobús Noctámbulo",
+  "img": "catalogImgs/05-19.png",
+  "keys": ["Autobus Noctámbulo", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Night Bus", "Morado", "Purple" ,"Violeta"],
+  "featured": false,
+  "date": "2025-06-15"
+},
+{
+  "id": "05-20",
+  "name": "Poe",
+  "img": "catalogImgs/05-20.png",
+  "keys": ["Edgar Allan Poe", "Poe", "Literatura", "Literature", "Libro", "Book", "Cuentos", "Tales", "Gótico", "Gothic", "Autor", "Escritor"],
+  "featured": false,
+  "date": "2025-06-15"
+},
+{
+  "id": "05-21",
+  "name": "Lovecraft",
+  "img": "catalogImgs/05-21.png",
+  "keys": ["H.P. Lovecraft", "Lovecraft", "Literatura", "Literature", "Libro", "Book", "Cuentos", "Tales", "Gótico", "Gothic", "Autor", "Escritor", "Cthulhu"],
+  "featured": false,
+  "date": "2025-06-15"
+},
+{
+  "id": "05-22",
+  "name": "Borges",
+  "img": "catalogImgs/05-22.png",
+  "keys": ["Jorge Luis Borges", "Borges", "Literatura", "Literature", "Libro", "Book", "Cuentos", "Tales", "Gótico", "Gothic", "Autor", "Escritor", "Argentina", "Argentino", "Literatura Argentina", "Literature Argentina"],
+  "featured": false,
+  "date": "2025-06-15"
+},
+{
+  "id": "05-23",
+  "name": "Cortázar",
+  "img": "catalogImgs/05-23.png",
+  "keys": ["Julio Cortázar", "Cortázar", "Literatura", "Literature", "Libro", "Book", "Cuentos", "Tales", "Gótico", "Gothic", "Autor", "Escritor", "Argentina", "Argentino", "Literatura Argentina", "Literature Argentina"],
+  "featured": false,
+  "date": "2025-06-15"
 },
 {
   "id": "06-1",
