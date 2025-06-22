@@ -2156,8 +2156,57 @@
   "id": "02-77",
   "name": "Cartoon Network",
   "img": "catalogImgs/02-77.png",
+  "keys": ["Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión"],
   "featured": false,
   "date": "2025-05-25"
+},
+{
+  "id": "02-78",
+  "name": "Burbuja",
+  "img": "catalogImgs/02-78.png",
+  "keys": ["Las Chicas Superpoderosas", "Burbuja", "Bombon", "Bellota", "The Powerpuff Girls", "Bubbles", "Blossom", "Buttercup",  "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión", "Azul", "Celeste", "Blue", "Blonde", "Rubia"],
+  "featured": false,
+  "date": "2025-06-22"
+},
+{
+  "id": "02-79",
+  "name": "Bombón",
+  "img": "catalogImgs/02-79.png",
+  "keys": ["Las Chicas Superpoderosas", "Burbuja", "Bombon", "Bellota", "The Powerpuff Girls", "Bubbles", "Blossom", "Buttercup",  "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-06-22"
+},
+{
+  "id": "02-80",
+  "name": "Bellota",
+  "img": "catalogImgs/02-80.png",
+  "keys": ["Las Chicas Superpoderosas", "Burbuja", "Bombon", "Bellota", "The Powerpuff Girls", "Bubbles", "Blossom", "Buttercup",  "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión", "Verde", "Green", "Morena", "Morocha"],
+  "featured": false,
+  "date": "2025-06-22"
+},
+{
+  "id": "02-81",
+  "name": "Chicas Superpoderosas",
+  "img": "catalogImgs/02-81.png",
+  "keys": ["Las Chicas Superpoderosas", "Burbuja", "Bombon", "Bellota", "The Powerpuff Girls", "Bubbles", "Blossom", "Buttercup",  "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-06-22"
+},
+{
+  "id": "02-82",
+  "name": "Tablón",
+  "img": "catalogImgs/02-82.png",
+  "keys": ["Ed Edd y Eddy", "Ed Edd n Eddy", "Plank", "Tablon", "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión", "Amarillo", "Yellow", "Madera", "Wood"],
+  "featured": false,
+  "date": "2025-06-22"
+},
+{
+  "id": "02-83",
+  "name": "Scooby Doo",
+  "img": "catalogImgs/02-83.png",
+  "keys": ["Scooby-Doo", "Scooby Doo", "Perro", "Maquina del Misterio", "Cartoon Network", "CN", "Serie", "TV", "Television", "Televisión", "Flores", "Flowers", "Verde", "Green", "Azul", "Blue", "Mystery Machine"],
+  "featured": false,
+  "date": "2025-06-22"
 },
 {
   "id": "03-1",
