@@ -1528,6 +1528,14 @@
   "date": "2025-05-30"
 },
 {
+  "id": "01-200",
+  "name": "Wally",
+  "img": "catalogImgs/01-200.png",
+  "keys": ["Wally", "Where's Wally", "Donde esta Wally", "Waldo", "Donde esta Waldo", "Libro", "Book", "Ilustracion", "Illustration", "Rojo", "Red", "Rayas", "Stripes", "Buscando a Wally", "Amarillo"],
+  "featured": false,
+  "date": "2025-06-29"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -2799,6 +2807,38 @@
   "keys": ["Julio Cortázar", "Cortázar", "Literatura", "Literature", "Libro", "Book", "Cuentos", "Tales", "Gótico", "Gothic", "Autor", "Escritor", "Argentina", "Argentino", "Literatura Argentina", "Literature Argentina"],
   "featured": false,
   "date": "2025-06-15"
+},
+{
+  "id": "05-24",
+  "name": "Farenheit 451",
+  "img": "catalogImgs/05-24.png",
+  "keys": ["Farenheit 451", "Ray Bradbury", "Libro", "Book", "Literatura", "Literature", "Distopia", "Dystopia", "Futuro", "Future", "Rojo", "Red", "Fuego", "Fire", "Censura", "Censorship", "Incendio", "Cerillas", "Fosforos", "Matches"],
+  "featured": false,
+  "date": "2025-06-29"
+},
+{
+  "id": "05-25",
+  "name": "Farenheit 451",
+  "img": "catalogImgs/05-25.png",
+  "keys": ["Farenheit 451", "Ray Bradbury", "Libro", "Book", "Literatura", "Literature", "Distopia", "Dystopia", "Futuro", "Future", "Amarillo", "Yellow", "Fuego", "Fire", "Censura", "Censorship", "Incendio", "Cerillas", "Fosforos", "Matches"],
+  "featured": false,
+  "date": "2025-06-29"
+},
+{
+  "id": "05-26",
+  "name": "Club de lectura",
+  "img": "catalogImgs/05-26.png",
+  "keys": ["Club de lectura", "Book Club", "Literatura", "Literature", "Libro", "Book", "Lectura", "Reading", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-06-29"
+},
+{
+  "id": "05-27",
+  "name": "Book Tracker",
+  "img": "catalogImgs/05-27.png",
+  "keys": ["Book Tracker", "Seguimiento de libros", "Literatura", "Literature", "Libro", "Book", "Lectura", "Reading", "Amarillo", "Yellow", "File", "Archivo", "Planilla", "Ficha", "Hoja"],
+  "featured": false,
+  "date": "2025-06-29"
 },
 {
   "id": "06-1",
