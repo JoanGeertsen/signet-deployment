@@ -4103,5 +4103,53 @@
   "keys": ["Wathmen", "DC", "Superheroe", "Comic", "Historieta","Watchmen", "Dr Manhattan", "Rorschach", "Ozymandias", "Silk Spectre", "Comedian", "Nite Owl", "Vigilante", "Vigilantes", "Heroes", "Heroe", "Hero", "Heroine", "Heroína", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-03-24"
+},
+{
+  "id": "06-160",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-160.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz"],
+  "featured": false,
+  "date": "2025-07-03"
+},
+{
+  "id": "06-161",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-161.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Verde", "Green"],
+  "featured": false,
+  "date": "2025-07-03"
+},
+{
+  "id": "06-162",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-162.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Celeste", "Sky", "Blue"],
+  "featured": false,
+  "date": "2025-07-03"
+},
+{
+  "id": "06-163",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-163.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Rosa", "Pink", "Agua", "Water"],
+  "featured": false,
+  "date": "2025-07-03"
+},
+{
+  "id": "06-164",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-164.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Cian", "Cyan", "Azul", "Blue", "Mar", "Agua", "Surf"],
+  "featured": false,
+  "date": "2025-07-03"
+},
+{
+  "id": "06-165",
+  "name": "Snoopy",
+  "img": "catalogImgs/06-165.png",
+  "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Celeste", "Sky", "Blue", "Cielo", "Avion", "Nubes", "Clouds", "Aviador", "Aviator"],
+  "featured": false,
+  "date": "2025-07-03"
 }
 ]
