@@ -4151,5 +4151,181 @@
   "keys": ["Snoopy", "Peanuts", "Charlie Brown", "Comic", "Historieta", "Perro", "Beagle", "Schulz", "Celeste", "Sky", "Blue", "Cielo", "Avion", "Nubes", "Clouds", "Aviador", "Aviator"],
   "featured": false,
   "date": "2025-07-03"
+},
+{
+  "id": "06-166",
+  "name": "Superman",
+  "img": "catalogImgs/06-166.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-167",
+  "name": "Superman",
+  "img": "catalogImgs/06-167.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Alex Ross"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-168",
+  "name": "Superman",
+  "img": "catalogImgs/06-168.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Acuarela"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-169",
+  "name": "Superman",
+  "img": "catalogImgs/06-169.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Space", "Espacio", "Universe", "Universo", "Galaxia", "Galaxy", "Planeta", "Planet", "Estrella", "Star"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-170",
+  "name": "Superman",
+  "img": "catalogImgs/06-170.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Amarillo", "Yellow"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-171",
+  "name": "Superman",
+  "img": "catalogImgs/06-171.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-172",
+  "name": "Superman",
+  "img": "catalogImgs/06-172.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-173",
+  "name": "Superman",
+  "img": "catalogImgs/06-173.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-174",
+  "name": "Superman",
+  "img": "catalogImgs/06-174.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-175",
+  "name": "Superman",
+  "img": "catalogImgs/06-175.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Espacio", "Space"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-176",
+  "name": "Superman",
+  "img": "catalogImgs/06-176.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Plano", "Flat", "Azul", "Blue"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-177",
+  "name": "Superman",
+  "img": "catalogImgs/06-177.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Azul", "Blue"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-178",
+  "name": "Superman",
+  "img": "catalogImgs/06-178.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-179",
+  "name": "Superman",
+  "img": "catalogImgs/06-179.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-180",
+  "name": "Superman",
+  "img": "catalogImgs/06-180.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-181",
+  "name": "Superman",
+  "img": "catalogImgs/06-181.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-182",
+  "name": "Superman",
+  "img": "catalogImgs/06-182.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-183",
+  "name": "Superman",
+  "img": "catalogImgs/06-183.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-184",
+  "name": "Superman",
+  "img": "catalogImgs/06-184.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Fortaleza de la soledad", "Fortress of Solitude", "Hielo", "Ice"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-185",
+  "name": "Superman",
+  "img": "catalogImgs/06-185.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-186",
+  "name": "Superman",
+  "img": "catalogImgs/06-186.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
+  "featured": true,
+  "date": "2025-07-09"
+},
+{
+  "id": "06-187",
+  "name": "Superman",
+  "img": "catalogImgs/06-187.png",
+  "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
+  "featured": true,
+  "date": "2025-07-09"
 }
 ]
