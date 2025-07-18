@@ -2217,6 +2217,54 @@
   "date": "2025-06-22"
 },
 {
+  "id": "02-84",
+  "name": "Dexter",
+  "img": "catalogImgs/02-84.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "02-85",
+  "name": "Dexter",
+  "img": "catalogImgs/02-85.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red", "Mar", "Oceano", "Barco", "Bote", "Embarcacion", "Yate"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "02-86",
+  "name": "Dexter",
+  "img": "catalogImgs/02-86.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "02-87",
+  "name": "Dexter",
+  "img": "catalogImgs/02-87.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "02-88",
+  "name": "Dexter",
+  "img": "catalogImgs/02-88.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "02-89",
+  "name": "Dexter",
+  "img": "catalogImgs/02-89.png",
+  "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
