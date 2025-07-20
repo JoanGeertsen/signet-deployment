@@ -1536,6 +1536,110 @@
   "date": "2025-06-29"
 },
 {
+  "id": "01-201",
+  "name": "Edificio",
+  "img": "catalogImgs/01-201.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Diseño", "Rascacielos", "Skyscraper", "Ciudad", "City"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-203",
+  "name": "UT Tower",
+  "img": "catalogImgs/01-203.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Diseño", "Ciudad", "City", "Universidad de Texas", "UT Austin", "UT Tower", "Austin", "Texas", "Universidad", "Main Building", "Main Tower"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-209",
+  "name": "Torres",
+  "img": "catalogImgs/01-209.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Diseño", "Ciudad", "City", "Torre", "Reloj"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-202",
+  "name": "Torre Rosa 1",
+  "img": "catalogImgs/01-202.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Diseño", "Ciudad", "City","Torre", "Reloj", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-212",
+  "name": "Torre Rosa 2",
+  "img": "catalogImgs/01-212.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Diseño", "Ciudad", "City","Torre", "Reloj", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-213",
+  "name": "Torre Rosa 3",
+  "img": "catalogImgs/01-213.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Ciudad", "City","Torre", "Reloj", "Rosa", "Pink"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-210",
+  "name": "San Pablo",
+  "img": "catalogImgs/01-210.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Catedral de San Pablo", "St. Paul's Cathedral", "Diseño", "Ciudad", "City", "Londres", "London", "Europa", "Ingles", "English"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-211",
+  "name": "Westerkerk",
+  "img": "catalogImgs/01-211.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Westerkerk", "Iglesia", "Church", "Diseño", "Ciudad", "City", "Amsterdam", "Holanda", "Netherlands", "Europa", "Europe", "Catedral"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-205",
+  "name": "New York",
+  "img": "catalogImgs/01-205.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "New York", "NYC", "Nueva York", "Ciudad", "City", "Diseño", "Colores", "Colorido", "Colorfull", "New Yorker"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-208",
+  "name": "Chrysler",
+  "img": "catalogImgs/01-208.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "New York", "NYC", "Nueva York", "Ciudad", "City", "Diseño", "Colores", "Colorido", "Colorfull", "New Yorker", "Chrysler Building", "Chrysler"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-207",
+  "name": "Ciudad 1",
+  "img": "catalogImgs/01-207.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Ciudad", "City", "Diseño"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-206",
+  "name": "Ciudad 2",
+  "img": "catalogImgs/01-206.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Ciudad", "City", "Diseño"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
+  "id": "01-204",
+  "name": "Faro",
+  "img": "catalogImgs/01-204.png",
+  "keys": ["Edificio", "Building", "Arquitectura", "Architecture", "Faro", "Lighthouse", "Mar", "Sea", "Ocean", "Oceano", "Noche", "Luna", "Negro", "Black"],
+  "featured": false,
+  "date": "2025-07-19"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
