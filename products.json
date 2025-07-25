@@ -2325,7 +2325,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-84.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -2333,7 +2333,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-85.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red", "Mar", "Oceano", "Barco", "Bote", "Embarcacion", "Yate"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -2341,7 +2341,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-86.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -2349,7 +2349,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-87.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -2357,7 +2357,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-88.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -2365,7 +2365,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-89.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -4309,7 +4309,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-166.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4317,7 +4317,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-167.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Alex Ross"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4325,7 +4325,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-168.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Acuarela"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4333,7 +4333,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-169.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Space", "Espacio", "Universe", "Universo", "Galaxia", "Galaxy", "Planeta", "Planet", "Estrella", "Star"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4341,7 +4341,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-170.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Amarillo", "Yellow"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4349,7 +4349,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-171.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4357,7 +4357,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-172.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4365,7 +4365,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-173.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4373,7 +4373,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-174.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4381,7 +4381,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-175.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Espacio", "Space"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4389,7 +4389,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-176.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Plano", "Flat", "Azul", "Blue"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4397,7 +4397,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-177.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Azul", "Blue"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4405,7 +4405,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-178.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4413,7 +4413,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-179.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4421,7 +4421,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-180.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4429,7 +4429,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-181.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4437,7 +4437,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-182.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4445,7 +4445,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-183.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4453,7 +4453,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-184.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Fortaleza de la soledad", "Fortress of Solitude", "Hielo", "Ice"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4461,7 +4461,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-185.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4469,7 +4469,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-186.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 },
 {
@@ -4477,7 +4477,7 @@
   "name": "Superman",
   "img": "catalogImgs/06-187.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-09"
 }
 ]
