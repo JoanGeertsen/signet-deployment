@@ -1584,6 +1584,46 @@
   "date": "2025-07-19"
 },
 {
+  "id": "01-214",
+  "name": "Termo",
+  "img": "catalogImgs/01-214.png",
+  "keys": ["Termo", "Stanley", "Botella", "Bottle", "Termo Stanley", "Termo de acero", "Acero inoxidable", "Inoxidable", "Mate", "Argentina", "Verde", "Green"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "01-215",
+  "name": "Estudio",
+  "img": "catalogImgs/01-215.png",
+  "keys": ["Estudio", "Study", "Oficina", "Office", "Escritorio", "Herramientas", "Utiles"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "01-216",
+  "name": "Orca espacial",
+  "img": "catalogImgs/01-216.png",
+  "keys": ["Orca", "Espacial", "Space", "Cielo","Arte digital", "Digital art", "Nubes", "Clouds", "Naranja", "Orange"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "01-217",
+  "name": "Arcoíris",
+  "img": "catalogImgs/01-217.png",
+  "keys": ["Arcoiris", "Rainbow", "Cielo", "Sky", "Nubes", "Clouds", "Arte digital", "Digital art", "Colores", "Colors", "Colorido", "Colorfull", "Space", "Espacial", "Stars", "Estrellas"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "01-218",
+  "name": "Gato",
+  "img": "catalogImgs/01-218.png",
+  "keys": ["Gato", "Cat", "Animal", "Animales", "Mascota", "Pet", "Arte digital", "Digital art", "Dibujo", "Drawing", "Verde", "Green", "Globo"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
   "id": "01-210",
   "name": "San Pablo",
   "img": "catalogImgs/01-210.png",
@@ -2325,7 +2365,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-84.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
 },
 {
@@ -2333,7 +2373,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-85.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red", "Mar", "Oceano", "Barco", "Bote", "Embarcacion", "Yate"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
 },
 {
@@ -2341,7 +2381,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-86.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
 },
 {
@@ -2349,7 +2389,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-87.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
 },
 {
@@ -2357,7 +2397,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-88.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
 },
 {
@@ -2365,8 +2405,32 @@
   "name": "Dexter",
   "img": "catalogImgs/02-89.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-07-18"
+},
+{
+  "id": "02-90",
+  "name": "Homero",
+  "img": "catalogImgs/02-90.png",
+  "keys": ["Homero Simpson", "The Simpsons", "Los Simpsons", "Homer", "Verde", "Green", "Fox", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "02-91",
+  "name": "Bob esponja",
+  "img": "catalogImgs/02-91.png",
+  "keys": ["Bob Esponja", "SpongeBob", "Nickelodeon", "Serie", "TV", "Television", "Televisión", "Marron", "Brown", "Pantalones Cuadrados", "Square Pants", "Derrotado", "Cansado"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "02-92",
+  "name": "Darth Vader",
+  "img": "catalogImgs/02-92.png",
+  "keys": ["Star Wars", "La Guerra de las Galaxias", "Darth Vader", "Vader", "Imperio", "Empire", "Jedi", "Sith", "Lado Oscuro", "Dark Side", "Espada Laser", "Lightsaber", "Cine", "Pelicula", "Movie", "Film"],
+  "featured": false,
+  "date": "2025-08-7"
 },
 {
   "id": "03-1",
@@ -2991,6 +3055,38 @@
   "keys": ["Book Tracker", "Seguimiento de libros", "Literatura", "Literature", "Libro", "Book", "Lectura", "Reading", "Amarillo", "Yellow", "File", "Archivo", "Planilla", "Ficha", "Hoja"],
   "featured": false,
   "date": "2025-06-29"
+},
+{
+  "id": "05-28",
+  "name": "Señor de los Anillos 1",
+  "img": "catalogImgs/05-28.png",
+  "keys": ["El Señor de los Anillos", "J.R.R. Tolkien", "Libro", "Book", "Literatura", "Literature", "Fantasía", "Fantasy", "Frodo", "Anillo", "Ring", "Lord of the Rings"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "05-29",
+  "name": "Señor de los Anillos 2",
+  "img": "catalogImgs/05-29.png",
+  "keys": ["El Señor de los Anillos", "J.R.R. Tolkien", "Libro", "Book", "Literatura", "Literature", "Fantasía", "Fantasy", "Frodo", "Anillo", "Ring", "Lord of the Rings"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "05-30",
+  "name": "Señor de los Anillos 3",
+  "img": "catalogImgs/05-30.png",
+  "keys": ["El Señor de los Anillos", "J.R.R. Tolkien", "Libro", "Book", "Literatura", "Literature", "Fantasía", "Fantasy", "Frodo", "Anillo", "Ring", "Lord of the Rings"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "05-31",
+  "name": "Señor de los Anillos 3",
+  "img": "catalogImgs/05-31.png",
+  "keys": ["Hogwarts Mail", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Buzon", "Mailbox", "Owl Post", "Lechuza", "Búho"],
+  "featured": false,
+  "date": "2025-08-7"
 },
 {
   "id": "06-1",
@@ -4310,7 +4406,7 @@
   "img": "catalogImgs/06-166.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-167",
@@ -4318,7 +4414,7 @@
   "img": "catalogImgs/06-167.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Alex Ross"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-168",
@@ -4326,7 +4422,7 @@
   "img": "catalogImgs/06-168.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Acuarela"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-169",
@@ -4334,7 +4430,7 @@
   "img": "catalogImgs/06-169.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Space", "Espacio", "Universe", "Universo", "Galaxia", "Galaxy", "Planeta", "Planet", "Estrella", "Star"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-170",
@@ -4342,7 +4438,7 @@
   "img": "catalogImgs/06-170.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite","Amarillo", "Yellow"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-171",
@@ -4350,7 +4446,7 @@
   "img": "catalogImgs/06-171.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-172",
@@ -4358,7 +4454,7 @@
   "img": "catalogImgs/06-172.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Rojo", "Red"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-173",
@@ -4366,7 +4462,7 @@
   "img": "catalogImgs/06-173.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-174",
@@ -4374,7 +4470,7 @@
   "img": "catalogImgs/06-174.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Azul", "Blue"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-175",
@@ -4382,7 +4478,7 @@
   "img": "catalogImgs/06-175.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Kryptonite", "Espacio", "Space"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-176",
@@ -4390,7 +4486,7 @@
   "img": "catalogImgs/06-176.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Plano", "Flat", "Azul", "Blue"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-177",
@@ -4398,7 +4494,7 @@
   "img": "catalogImgs/06-177.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "Azul", "Blue"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-178",
@@ -4406,7 +4502,7 @@
   "img": "catalogImgs/06-178.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-179",
@@ -4414,7 +4510,7 @@
   "img": "catalogImgs/06-179.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-180",
@@ -4422,7 +4518,7 @@
   "img": "catalogImgs/06-180.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-181",
@@ -4430,7 +4526,7 @@
   "img": "catalogImgs/06-181.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-182",
@@ -4438,7 +4534,7 @@
   "img": "catalogImgs/06-182.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-183",
@@ -4446,7 +4542,7 @@
   "img": "catalogImgs/06-183.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-184",
@@ -4454,7 +4550,7 @@
   "img": "catalogImgs/06-184.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Fortaleza de la soledad", "Fortress of Solitude", "Hielo", "Ice"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-185",
@@ -4462,7 +4558,7 @@
   "img": "catalogImgs/06-185.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-186",
@@ -4470,7 +4566,7 @@
   "img": "catalogImgs/06-186.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet", "Krypto", "Perro", "Dog"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
 },
 {
   "id": "06-187",
@@ -4478,6 +4574,38 @@
   "img": "catalogImgs/06-187.png",
   "keys": ["Superman", "DC", "Superheroe", "Comic", "Historieta","Kal-El", "Clark Kent", "Lois Lane", "Kryptonita", "James Gunn", "David Corenswet"],
   "featured": false,
-  "date": "2025-07-09"
+  "date": "2025-02-25"
+},
+{
+  "id": "06-188",
+  "name": "Black Panther",
+  "img": "catalogImgs/06-188.png",
+  "keys": ["Black Panther", "Marvel", "Superheroe", "Comic", "Historieta","T'Challa", "Wakanda", "Pantera Negra", "Black Panther", "Chadwick Boseman"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "06-189",
+  "name": "Spiderman",
+  "img": "catalogImgs/06-189.png",
+  "keys": ["Spiderman", "Marvel", "Superheroe", "Comic", "Historieta","Araña", "Arania", "Peter Parker", "Miles Morales", "Pop", "TV"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "06-190",
+  "name": "Iron Man",
+  "img": "catalogImgs/06-190.png",
+  "keys": ["Iron Man", "Marvel", "Superheroe", "Comic", "Historieta","Tony Stark", "Robert Downey Jr.", "Avengers", "Vengadores", "Ironman"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "06-191",
+  "name": "Joker",
+  "img": "catalogImgs/06-191.png",
+  "keys": ["Joker", "DC", "Superheroe", "Comic", "Historieta","Bat", "Murcielago", "Joker", "Guason", "Guasón", "Serie Animada", "Animated Series", "Batman The Animated Series", "Mark Hamill"],
+  "featured": false,
+  "date": "2025-02-25"
 }
 ]
