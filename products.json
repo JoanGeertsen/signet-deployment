@@ -1597,7 +1597,7 @@
   "img": "catalogImgs/01-215.png",
   "keys": ["Estudio", "Study", "Oficina", "Office", "Escritorio", "Herramientas", "Utiles"],
   "featured": false,
-  "date": "2025-08-7"
+  "date": "2025-02-25"
 },
 {
   "id": "01-216",
@@ -1680,6 +1680,22 @@
   "date": "2025-07-19"
 },
 {
+  "id": "01-219",
+  "name": "Carrera",
+  "img": "catalogImgs/01-219.png",
+  "keys": ["F1", "Formula 1", "Carrera", "Racing", "Deporte", "Sport", "Coche", "Car", "Autos"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-220",
+  "name": "Hot Wheels",
+  "img": "catalogImgs/01-220.png",
+  "keys": ["Hot Wheels", "Carrera", "Carrera", "Racing", "Deporte", "Sport", "Coche", "Car", "Autos", "Juguete", "Toy", "Carreras", "Racing", "Coleccionable", "Collectible", "Miniatura", "Miniature", "Coleccion"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -1755,7 +1771,7 @@
   "id": "02-10",
   "name": "Don Cangrejo",
   "img": "catalogImgs/02-10.png",
-  "keys": ["Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Rojo", "Red"],
+  "keys": ["Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo", "Bob Esponja", "Don cangrejo", "Bob Esponja", "Crab", "Mr. Krabs", "Don Cangrejo"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -2414,7 +2430,7 @@
   "img": "catalogImgs/02-90.png",
   "keys": ["Homero Simpson", "The Simpsons", "Los Simpsons", "Homer", "Verde", "Green", "Fox", "Serie", "TV", "Television", "Televisión"],
   "featured": false,
-  "date": "2025-08-7"
+  "date": "2025-05-25"
 },
 {
   "id": "02-91",
@@ -2422,7 +2438,7 @@
   "img": "catalogImgs/02-91.png",
   "keys": ["Bob Esponja", "SpongeBob", "Nickelodeon", "Serie", "TV", "Television", "Televisión", "Marron", "Brown", "Pantalones Cuadrados", "Square Pants", "Derrotado", "Cansado"],
   "featured": false,
-  "date": "2025-08-7"
+  "date": "2025-02-25"
 },
 {
   "id": "02-92",
@@ -2431,6 +2447,14 @@
   "keys": ["Star Wars", "La Guerra de las Galaxias", "Darth Vader", "Vader", "Imperio", "Empire", "Jedi", "Sith", "Lado Oscuro", "Dark Side", "Espada Laser", "Lightsaber", "Cine", "Pelicula", "Movie", "Film"],
   "featured": false,
   "date": "2025-08-7"
+},
+{
+  "id": "02-93",
+  "name": "Meteoro",
+  "img": "catalogImgs/02-93.png",
+  "keys": ["Meteoro", "Speed Racer", "Serie", "TV", "Television", "Televisión", "Carreras", "Racing", "Coche", "Carro", "Auto", "Automovil", "Automobile", "Rojo", "Red", "Racer", "Mach 5", "Mach Five"],
+  "featured": false,
+  "date": "2025-08-11"
 },
 {
   "id": "03-1",
@@ -2727,6 +2751,38 @@
   "keys": ["Nintendo", "Mario", "Planta", "Planta Piraña", "Piranha Plant", "Super Mario", "Videojuego", "Gaming", "Consola", "Retro", "Retrogaming", "Rojo", "Red", "Mario Bross", "Mario Bros", "Nintendo Switch", "Nintendo 64", "Nintendo Gamecube", "Nintendo Wii", "Nintendo Wii U"],
   "featured": false,
   "date": "2025-05-30"
+},
+{
+  "id": "03-38",
+  "name": "Gaming 1",
+  "img": "catalogImgs/03-38.png",
+  "keys": ["Pausa", "Pause", "Gaming", "Videojuego", "Consola", "Retro", "Retrogaming", "Playstation", "Xbox", "Nintendo", "Sega", "Celeste"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "03-39",
+  "name": "Gaming 2",
+  "img": "catalogImgs/03-39.png",
+  "keys": ["Game Over", "Gaming", "Videojuego", "Consola", "Retro", "Retrogaming", "Playstation", "Xbox", "Nintendo", "Sega", "Red", "Rojo"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "03-40",
+  "name": "Gaming 3",
+  "img": "catalogImgs/03-40.png",
+  "keys": ["Level UP", "Gaming", "Videojuego", "Consola", "Retro", "Retrogaming", "Playstation", "Xbox", "Nintendo", "Sega", "Green", "Verde"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "03-41",
+  "name": "Gaming 4",
+  "img": "catalogImgs/03-41.png",
+  "keys": ["Winner", "Win", "Ganaste", "Ganador", "Gaming", "Videojuego", "Consola", "Retro", "Retrogaming", "Playstation", "Xbox", "Nintendo", "Sega", "Red", "Rojo"],
+  "featured": false,
+  "date": "2025-08-11"
 },
 {
   "id": "04-1",
@@ -3082,7 +3138,7 @@
 },
 {
   "id": "05-31",
-  "name": "Señor de los Anillos 3",
+  "name": "Harry Potter",
   "img": "catalogImgs/05-31.png",
   "keys": ["Hogwarts Mail", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Buzon", "Mailbox", "Owl Post", "Lechuza", "Búho"],
   "featured": false,
