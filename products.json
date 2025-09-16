@@ -2457,6 +2457,54 @@
   "date": "2025-08-11"
 },
 {
+  "id": "02-94",
+  "name": "Eva",
+  "img": "catalogImgs/02-94.png",
+  "keys": ["Walle", "Wall-E","Eva", "Espacio", "Space","Estrellas" ,"Pixar", "Disney", "Robot", "Robotica", "Robotics", "Cine", "Pelicula", "Movie", "Film", "Blue", "Azul"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
+  "id": "02-95",
+  "name": "Wall-E",
+  "img": "catalogImgs/02-95.png",
+  "keys": ["Walle", "Wall-E","Pixar", "Disney", "Robot", "Robotica", "Robotics", "Cine", "Pelicula", "Movie", "Film", "Amarillo", "Yellow"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
+  "id": "02-96",
+  "name": "Mr. Robot 1",
+  "img": "catalogImgs/02-96.png",
+  "keys": ["Fsociety", "F Society", "Mr Robot", "Mr. Robot", "Rami Malek", "Christian Slater", "Elliot Alderson", "Hackers", "Hacking", "Ciberseguridad", "Cybersecurity", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
+  "id": "02-97",
+  "name": "Mr. Robot 2",
+  "img": "catalogImgs/02-97.png",
+  "keys": ["Fsociety", "F Society", "Mr Robot", "Mr. Robot", "Rami Malek", "Christian Slater", "Elliot Alderson", "Hackers", "Hacking", "Ciberseguridad", "Cybersecurity", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
+  "id": "02-98",
+  "name": "Mr. Robot 3",
+  "img": "catalogImgs/02-98.png",
+  "keys": ["Fsociety", "F Society", "Mr Robot", "Mr. Robot", "Rami Malek", "Christian Slater", "Elliot Alderson", "Hackers", "Hacking", "Ciberseguridad", "Cybersecurity", "Serie", "TV", "Television", "Televisión"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
+  "id": "02-99",
+  "name": "Mr. Robot 4",
+  "img": "catalogImgs/02-99.png",
+  "keys": ["Fsociety", "F Society", "Mr Robot", "Mr. Robot", "Rami Malek", "Christian Slater", "Elliot Alderson", "Hackers", "Hacking", "Ciberseguridad", "Cybersecurity", "Serie", "TV", "Television", "Televisión", "New York", "Nueva York"],
+  "featured": false,
+  "date": "2025-09-15"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
