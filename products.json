@@ -724,7 +724,7 @@
   "name": "Uña",
   "img": "catalogImgs/01-93.png",
   "keys": ["Uña", "Nail", "Gris", "Gray", "Diseño", "Design"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -756,7 +756,7 @@
   "name": "Brain Storm",
   "img": "catalogImgs/01-97.png",
   "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Tormenta", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital", "Brain Storm", "Rayos"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -764,7 +764,7 @@
   "name": "Cerebro",
   "img": "catalogImgs/01-98.png",
   "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -772,7 +772,7 @@
   "name": "Cerebro",
   "img": "catalogImgs/01-99.png",
   "keys": ["Cerebro", "Brain", "Mente", "Pensamiento", "Inteligencia", "Inteligente", "Cerebral", "Cerebral", "Podrido", "Halloween", "Rosa", "Pink", "Digital Art", "Arte Digital"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -780,7 +780,7 @@
   "name": "Fuego",
   "img": "catalogImgs/01-100.png",
   "keys": ["Fuego", "Llama", "Calor", "Rojo", "Amarillo", "Naranja", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art", "Chispa", "Patron", "Pattern"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -788,7 +788,7 @@
   "name": "Colmillos",
   "img": "catalogImgs/01-101.png",
   "keys": ["Colmillos", "Vampiro", "Halloween", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -796,7 +796,7 @@
   "name": "Fantasmas",
   "img": "catalogImgs/01-102.png",
   "keys": ["Fantasmas", "Ghost", "Halloween", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -804,7 +804,7 @@
   "name": "Payaso",
   "img": "catalogImgs/01-103.png",
   "keys": ["Payaso", "Clown", "Circo", "Circus", "Colores", "Colors", "Diseño", "Design", "Arte Digital", "Digital Art", "Halloween"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -812,7 +812,7 @@
   "name": "Gato",
   "img": "catalogImgs/01-104.png",
   "keys": ["Gatos", "Gato", "Cat", "Animales", "Animal", "Rojo", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Halloween", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -820,7 +820,7 @@
   "name": "Dinosaurios",
   "img": "catalogImgs/01-105.png",
   "keys": ["Dinosaurios", "Dinosaurio", "Jurassic Park", "Jurassic World", "Amarillo", "Yellow", "Digital Art", "Arte digital", "Patron", "Pattern"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -828,7 +828,7 @@
   "name": "Ovnis",
   "img": "catalogImgs/01-106.png",
   "keys": ["Ovnis", "Ovni", "UFO", "Plato volador", "Platillo volador", "Matrix", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -836,7 +836,7 @@
   "name": "Ojos",
   "img": "catalogImgs/01-107.png",
   "keys": ["Ojos", "Eyes", "Mirada", "Look", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -844,7 +844,7 @@
   "name": "Margarita",
   "img": "catalogImgs/01-108.png",
   "keys": ["Margarita", "Flor", "Manos", "Zombie", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -852,7 +852,7 @@
   "name": "Ojos",
   "img": "catalogImgs/01-109.png",
   "keys": ["Ojos", "Eyes", "Mirada", "Look", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Colores", "Halloween"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -860,7 +860,7 @@
   "name": "Calaveras",
   "img": "catalogImgs/01-110.png",
   "keys": ["Skulls", "Calaveras", "Patron", "Pattern", "Diseño", "Design", "Arte Digital", "Digital Art", "Muerte", "Muerto"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -1468,7 +1468,7 @@
   "name": "Fantasmas",
   "img": "catalogImgs/01-192.png",
   "keys": ["Patron", "Pattern", "Fantasmas", "Fantasma", "Ghost", "Halloween", "Espanto", "Miedo", "Terror", "Violeta", "Violet", "Morado", "Purple"],
-  "featured": false,
+  "featured": true,
   "date": "2025-05-30"
 },
 {
@@ -2221,7 +2221,7 @@
   "name": "Psicosis",
   "img": "catalogImgs/02-64.png",
   "keys": ["Psicosis", "Psicopata", "Pelicula", "Cine", "Alfred Hitchcock", "Suspenso", "Suspense", "Rojo", "Red", "Bates Motel", "Norman Bates", "Madre", "Mother", "Cuchillo", "Knife", "Ducha", "Shower", "Rojo", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-05-8"
 },
 {
@@ -2229,7 +2229,7 @@
   "name": "Psicosis",
   "img": "catalogImgs/02-65.png",
   "keys": ["Psicosis", "Psicopata", "Pelicula", "Cine", "Alfred Hitchcock", "Suspenso", "Suspense", "Rojo", "Red", "Bates Motel", "Norman Bates", "Madre", "Mother", "Cuchillo", "Knife", "Ducha", "Shower"],
-  "featured": false,
+  "featured": true,
   "date": "2025-05-8"
 },
 {
@@ -2389,7 +2389,7 @@
   "name": "Dexter",
   "img": "catalogImgs/02-85.png",
   "keys": ["Dexter", "Michael C. Hall", "Dexter Morgan", "Sangre", "Blood", "Serial Killer", "Forense", "Forensic", "Ciencia", "Science", "Crimen", "Crime", "Serie", "TV", "Television", "Televisión", "Asesino Serial", "Rojo", "Red", "Mar", "Oceano", "Barco", "Bote", "Embarcacion", "Yate"],
-  "featured": false,
+  "featured": true,
   "date": "2025-07-18"
 },
 {
@@ -3373,7 +3373,7 @@
   "name": "Joker",
   "img": "catalogImgs/06-24.png",
   "keys": ["Joker", "Guason", "Guasón", "Rojo", "Rosa", "Pink", "DC", "Heath Ledger", "Payaso", "Superheroe", "Patron", "Pattern"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -3509,7 +3509,7 @@
   "name": "Joker",
   "img": "catalogImgs/06-41.png",
   "keys": ["Joker", "Guason", "Guasón", "Negro", "Black", "DC", "Heath Ledger", "Payaso", "Superheroe", "Patron", "Pattern"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -3645,7 +3645,7 @@
   "name": "Arkham Asylum 4",
   "img": "catalogImgs/06-58.png",
   "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
@@ -3653,7 +3653,7 @@
   "name": "Arkham Asylum 5",
   "img": "catalogImgs/06-59.png",
   "keys": ["Batman", "DC", "Murcielago", "Bat", "Gotham", "Comic", "Historieta", "Superheroe", "Arkham Asylum", "Asilo Arkham", "Grant Morrison", "Dave McKean"],
-  "featured": false,
+  "featured": true,
   "date": "2025-02-25"
 },
 {
