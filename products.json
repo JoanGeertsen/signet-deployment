@@ -1691,6 +1691,10 @@
   "id": "01-220",
   "name": "Hot Wheels",
   "img": "catalogImgs/01-220.png",
+  "variants": [
+    { "id": "01-220_C1", "img": "catalogImgs/01-220_C1.png", "label": "blanco" },
+    { "id": "01-220_C2", "img": "catalogImgs/01-220_C2.png", "label": "negro" }
+  ],
   "keys": ["Hot Wheels", "Carrera", "Carrera", "Racing", "Deporte", "Sport", "Coche", "Car", "Autos", "Juguete", "Toy", "Carreras", "Racing", "Coleccionable", "Collectible", "Miniatura", "Miniature", "Coleccion"],
   "featured": false,
   "date": "2025-08-11"
