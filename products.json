@@ -1700,6 +1700,110 @@
   "date": "2025-08-11"
 },
 {
+  "id": "01-221",
+  "name": "Astronauta",
+  "img": "catalogImgs/01-221.png",
+  "keys": ["Astronauta", "Astronaut", "Espacio", "Space", "Cielo", "Sky", "Tijera", "Azul", "blue"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-222",
+  "name": "Óptico 1",
+  "img": "catalogImgs/01-222.png",
+  "keys": ["ilusion optica", "Optical illusion", "Efecto optico", "Optical effect", "Psicodelico", "Psychedelic", "Abstracto", "Abstract", "Verde", "Green", "violeta", "violet"],
+  "featured": false,
+  "date": "2025-10-26"
+},
+{
+  "id": "01-223",
+  "name": "Óptico 2",
+  "img": "catalogImgs/01-223.png",
+  "keys": ["ilusion optica", "Optical illusion", "Efecto optico", "Optical effect", "Psicodelico", "Psychedelic", "Abstracto", "Abstract", "Verde", "Green", "Yellow", "Amarillo"],
+  "featured": false,
+  "date": "2025-10-26"
+},
+{
+  "id": "01-224",
+  "name": "Óptico 3",
+  "img": "catalogImgs/01-224.png",
+  "keys": ["ilusion optica", "Optical illusion", "Efecto optico", "Optical effect", "Psicodelico", "Psychedelic", "Abstracto", "Abstract"],
+  "featured": false,
+  "date": "2025-10-26"
+},
+{
+  "id": "01-225",
+  "name": "F1",
+  "img": "catalogImgs/01-225.png",
+  "keys": ["F1", "Formula 1", "Carrera", "Racing", "Deporte", "Sport", "Coche", "Car", "Autos"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-226",
+  "name": "Corazones",
+  "img": "catalogImgs/01-226.png",
+  "keys": ["corazones", "Hearts", "Amor", "Love", "Rosa", "Pink", "Día de San Valentín", "Valentine's Day", "San Valentín", "Valentine"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-227",
+  "name": "Circuitos",
+  "img": "catalogImgs/01-227.png",
+  "keys": ["circuitos", "Circuits", "Tecnología", "Technology", "Electrónica", "Electronics"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-228",
+  "name": "Ananá",
+  "img": "catalogImgs/01-228.png",
+  "keys": ["Anana", "Pineapple", "Fruta", "Fruit", "Comida", "Food", "Amarillo", "Yellow", "piña"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-229",
+  "name": "Cohete",
+  "img": "catalogImgs/01-229.png",
+  "keys": ["cohete", "rocket", "espacial", "space", "nave", "ship", "astronauta", "astronaut", "espacio", "planetas"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-230",
+  "name": "Java",
+  "img": "catalogImgs/01-230.png",
+  "keys": ["Java", "Código", "Code", "Programación", "Programming", "Desarrollo", "Development", "Tecnología", "Technology", "Electrónica", "Electronics", "Programador", "Desarrollador", "Sistemas", "Software", "Taza", "Café"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-231",
+  "name": "Windows",
+  "img": "catalogImgs/01-231.png",
+  "keys": ["Windows", "Código", "Code", "Programación", "Programming", "Desarrollo", "Development", "Tecnología", "Technology", "Electrónica", "Electronics", "Programador", "Desarrollador", "Sistemas", "Software", "OS", "Window"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-232",
+  "name": "Otoño",
+  "img": "catalogImgs/01-232.png",
+  "keys": ["Otoño", "Autumn", "Fall", "Estación", "Season", "Hojas", "Leaves", "Árbol", "Tree"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
+  "id": "01-233",
+  "name": "Primavera",
+  "img": "catalogImgs/01-233.png",
+  "keys": ["Primavera", "Spring", "Estación", "Season", "Flores", "Flowers", "Colores"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -2509,6 +2613,22 @@
   "date": "2025-09-15"
 },
 {
+  "id": "02-100",
+  "name": "StarWars",
+  "img": "catalogImgs/02-100.png",
+  "keys": ["Star Wars", "La Guerra de las Galaxias", "Darth Vader", "Vader", "Imperio", "Empire", "Jedi", "Sith", "Lado Oscuro", "Dark Side", "Espada Laser", "Lightsaber", "Cine", "Pelicula", "Movie", "Film"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
+  "id": "02-101",
+  "name": "StarWars",
+  "img": "catalogImgs/02-101.png",
+  "keys": ["Star Wars", "La Guerra de las Galaxias", "Darth Vader", "Vader", "Imperio", "Empire", "Jedi", "Sith", "Lado Oscuro", "Dark Side", "Espada Laser", "Lightsaber", "Cine", "Pelicula", "Movie", "Film"],
+  "featured": false,
+  "date": "2025-08-7"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
@@ -2837,6 +2957,14 @@
   "date": "2025-08-11"
 },
 {
+  "id": "03-42",
+  "name": "Pokemon",
+  "img": "catalogImgs/03-42.png",
+  "keys": ["Pokemon", "Pikachu", "Ash Ketchum", "Videojuego", "Gaming", "Consola", "Retro", "Retrogaming", "Nintendo", "Rojo", "Red", "Pokeball"],
+  "featured": false,
+  "date": "2025-08-11"
+},
+{
   "id": "04-1",
   "name": "Daft Punk",
   "img": "catalogImgs/04-1.png",
@@ -2928,7 +3056,7 @@
   "id": "04-12",
   "name": "Casetes",
   "img": "catalogImgs/04-12.png",
-  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Casete"],
+  "keys": ["Casetes", "Casets", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -2955,6 +3083,106 @@
   "keys": ["Michael Jakson", "Pop", "Musica", "Music", "Rock", "Banda", "Cantante", "Baile", "Danza", "Bailarin"],
   "featured": false,
   "date": "2025-02-25"
+},
+{
+  "id": "04-17",
+  "name": "Cassettes",
+  "img": "catalogImgs/04-17.png",
+  "keys": ["Cassettes", "Casetes", "Musica", "Retro", "Vintage", "Old", "Tapes", "Cassettes", "Cassette", "Music", "Retrogaming"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-18",
+  "name": "Taylor Swift 1",
+  "img": "catalogImgs/04-18.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-19",
+  "name": "Taylor Swift 2",
+  "img": "catalogImgs/04-19.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-20",
+  "name": "Taylor Swift 3",
+  "img": "catalogImgs/04-20.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-21",
+  "name": "Taylor Swift 4",
+  "img": "catalogImgs/04-21.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-22",
+  "name": "Taylor Swift 5",
+  "img": "catalogImgs/04-22.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-23",
+  "name": "Taylor Swift 6",
+  "img": "catalogImgs/04-23.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-24",
+  "name": "Taylor Swift 7",
+  "img": "catalogImgs/04-24.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-25",
+  "name": "Taylor Swift 8",
+  "img": "catalogImgs/04-25.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-26",
+  "name": "Taylor Swift 9",
+  "img": "catalogImgs/04-26.png",
+  "keys": ["Taylor Swift", "Pop", "Musica", "Music", "Rock", "Cantante", "Bailarina", "Banda", "Swifties"],
+  "featured": false,
+  "date": "2025-02-25"
+},
+{
+  "id": "04-27",
+  "name": "Guitarra",
+  "img": "catalogImgs/04-27.png",
+  "variants": [
+    { "id": "04-27_C1", "img": "catalogImgs/04-27_C1.png", "label": "Naranja" },
+    { "id": "04-27_C2", "img": "catalogImgs/04-27_C2.png", "label": "Amarilla" },
+    { "id": "04-27_C3", "img": "catalogImgs/04-27_C3.png", "label": "Turquesa" },
+    { "id": "04-27_C4", "img": "catalogImgs/04-27_C4.png", "label": "Roja" },
+    { "id": "04-27_C5", "img": "catalogImgs/04-27_C5.png", "label": "Azul" },
+    { "id": "04-27_C6", "img": "catalogImgs/04-27_C6.png", "label": "Violeta" },
+    { "id": "04-27_C7", "img": "catalogImgs/04-27_C7.png", "label": "Verde" },
+    { "id": "04-27_C8", "img": "catalogImgs/04-27_C8.png", "label": "Celeste" },
+    { "id": "04-27_C9", "img": "catalogImgs/04-27_C9.png", "label": "Fucsia" },
+    { "id": "04-27_C10", "img": "catalogImgs/04-27_C10.png", "label": "Rosa" }
+  ],
+  "keys": ["Guitarra", "Guitar", "Musica", "Rock", "Instrumento", "Instrument", "Banda", "Band", "Guitarra criolla", "Acustica", "Electric"],
+  "featured": false,
+  "date": "2025-10-26"
 },
 {
   "id": "05-1",
@@ -4819,5 +5047,53 @@
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor"],
   "featured": false,
   "date": "2025-09-18"
+},
+{
+  "id": "06-205",
+  "name": "Flash",
+  "img": "catalogImgs/06-205.png",
+  "keys": ["Flash", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "Flashpoint", "Prendedor"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "06-206",
+  "name": "Batman",
+  "img": "catalogImgs/06-206.png",
+  "keys": ["Batman", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "Flashpoint", "Prendedor"],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "06-207",
+  "name": "Jay Garrick",
+  "img": "catalogImgs/06-207.png",
+  "keys": ["Flash", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "jay garrick" ],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "06-208",
+  "name": "Prendedor",
+  "img": "catalogImgs/06-208.png",
+  "keys": ["Prendedor", "Flashpoint", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning" ],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "06-209",
+  "name": "Jay Garrick",
+  "img": "catalogImgs/06-209.png",
+  "keys": ["Flash", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "jay garrick" ],
+  "featured": false,
+  "date": "2025-07-18"
+},
+{
+  "id": "06-210",
+  "name": "Flash",
+  "img": "catalogImgs/06-210.png",
+  "keys": ["Flash", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "jay garrick" ],
+  "featured": false,
+  "date": "2025-07-18"
 }
 ]
