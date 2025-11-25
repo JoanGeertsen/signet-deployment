@@ -1804,6 +1804,78 @@
   "date": "2025-08-11"
 },
 {
+  "id": "01-234",
+  "name": "Paisaje navideño",
+  "img": "catalogImgs/01-234.png",
+  "keys": ["Navidad", "Christmas", "Paisaje", "Landscape", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Christmas Tree", "Regalos", "Gifts"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-235",
+  "name": "Paisaje navideño",
+  "img": "catalogImgs/01-235.png",
+  "keys": ["Navidad", "Christmas", "Paisaje", "Landscape", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Christmas Tree", "Regalos", "Gifts"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-236",
+  "name": "Edificio nevado",
+  "img": "catalogImgs/01-236.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Edificio", "Noche", "Gifts", "Ventana"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-237",
+  "name": "Gato navideño",
+  "img": "catalogImgs/01-237.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Gato", "Cat", "Gifts", "Arbol"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-238",
+  "name": "Pato navideño",
+  "img": "catalogImgs/01-238.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Pato", "Duck", "Gifts"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-239",
+  "name": "Papá Noel",
+  "img": "catalogImgs/01-239.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Papa Noel", "Santa Claus"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-240",
+  "name": "Luces Navideñas",
+  "img": "catalogImgs/01-240.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Luces Navideñas", "Christmas Lights", "Arbol"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-241",
+  "name": "Navidad",
+  "img": "catalogImgs/01-241.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Arbol Navideño", "Arbol", "Christmas Tree"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
+  "id": "01-242",
+  "name": "Velas",
+  "img": "catalogImgs/01-242.png",
+  "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Velas Navideñas", "Candle"],
+  "featured": true,
+  "date": "2025-04-11"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
@@ -2627,6 +2699,30 @@
   "keys": ["Star Wars", "La Guerra de las Galaxias", "Darth Vader", "Vader", "Imperio", "Empire", "Jedi", "Sith", "Lado Oscuro", "Dark Side", "Espada Laser", "Lightsaber", "Cine", "Pelicula", "Movie", "Film"],
   "featured": false,
   "date": "2025-08-7"
+},
+{
+  "id": "02-102",
+  "name": "Grinch",
+  "img": "catalogImgs/02-102.png",
+  "keys": ["Grinch", "Dr. Seuss", "Navidad", "Christmas", "Cine", "Pelicula", "Movie", "Film", "Verde", "Green", "El Grinch"],
+  "featured": true,
+  "date": "2025-04-7"
+},
+{
+  "id": "02-103",
+  "name": "Grinch",
+  "img": "catalogImgs/02-103.png",
+  "keys": ["Grinch", "Dr. Seuss", "Navidad", "Christmas", "Cine", "Pelicula", "Movie", "Film", "Red", "Rojo", "El Grinch"],
+  "featured": true,
+  "date": "2025-04-7"
+},
+{
+  "id": "02-104",
+  "name": "Garfield",
+  "img": "catalogImgs/02-104.png",
+  "keys": ["Garfield", "Gato",  "Serie", "TV", "Television", "Televisión", "Navidad", "Christmas", "Azul", "Blue", "Cielo", "Sky", "Estrellas", "Stars"],
+  "featured": true,
+  "date": "2025-04-7"
 },
 {
   "id": "03-1",
