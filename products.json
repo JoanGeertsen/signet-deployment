@@ -1808,7 +1808,7 @@
   "name": "Paisaje navideño",
   "img": "catalogImgs/01-234.png",
   "keys": ["Navidad", "Christmas", "Paisaje", "Landscape", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Christmas Tree", "Regalos", "Gifts"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1816,7 +1816,7 @@
   "name": "Paisaje navideño",
   "img": "catalogImgs/01-235.png",
   "keys": ["Navidad", "Christmas", "Paisaje", "Landscape", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Christmas Tree", "Regalos", "Gifts"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1824,7 +1824,7 @@
   "name": "Edificio nevado",
   "img": "catalogImgs/01-236.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Edificio", "Noche", "Gifts", "Ventana"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1832,7 +1832,7 @@
   "name": "Gato navideño",
   "img": "catalogImgs/01-237.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Árbol de Navidad", "Gato", "Cat", "Gifts", "Arbol"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1840,7 +1840,7 @@
   "name": "Pato navideño",
   "img": "catalogImgs/01-238.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Pato", "Duck", "Gifts"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1848,7 +1848,7 @@
   "name": "Papá Noel",
   "img": "catalogImgs/01-239.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Papa Noel", "Santa Claus"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1856,7 +1856,7 @@
   "name": "Luces Navideñas",
   "img": "catalogImgs/01-240.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Luces Navideñas", "Christmas Lights", "Arbol"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1864,7 +1864,7 @@
   "name": "Navidad",
   "img": "catalogImgs/01-241.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Arbol Navideño", "Arbol", "Christmas Tree"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -1872,7 +1872,7 @@
   "name": "Velas",
   "img": "catalogImgs/01-242.png",
   "keys": ["Navidad", "Christmas", "Invierno", "Winter", "Nieve", "Snow", "Papá Noel", "Gifts", "Velas Navideñas", "Candle"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-11"
 },
 {
@@ -2705,7 +2705,7 @@
   "name": "Grinch",
   "img": "catalogImgs/02-102.png",
   "keys": ["Grinch", "Dr. Seuss", "Navidad", "Christmas", "Cine", "Pelicula", "Movie", "Film", "Verde", "Green", "El Grinch"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-7"
 },
 {
@@ -2713,7 +2713,7 @@
   "name": "Grinch",
   "img": "catalogImgs/02-103.png",
   "keys": ["Grinch", "Dr. Seuss", "Navidad", "Christmas", "Cine", "Pelicula", "Movie", "Film", "Red", "Rojo", "El Grinch"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-7"
 },
 {
@@ -2721,8 +2721,120 @@
   "name": "Garfield",
   "img": "catalogImgs/02-104.png",
   "keys": ["Garfield", "Gato",  "Serie", "TV", "Television", "Televisión", "Navidad", "Christmas", "Azul", "Blue", "Cielo", "Sky", "Estrellas", "Stars"],
-  "featured": true,
+  "featured": false,
   "date": "2025-04-7"
+},
+{
+  "id": "02-105",
+  "name": "Stranger Things 1",
+  "img": "catalogImgs/02-105.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-106",
+  "name": "Stranger Things 2",
+  "img": "catalogImgs/02-106.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-107",
+  "name": "Stranger Things 3",
+  "img": "catalogImgs/02-107.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-108",
+  "name": "Stranger Things 4",
+  "img": "catalogImgs/02-108.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-109",
+  "name": "Stranger Things 5",
+  "img": "catalogImgs/02-109.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-110",
+  "name": "Stranger Things 6",
+  "img": "catalogImgs/02-110.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-111",
+  "name": "Stranger Things 7",
+  "img": "catalogImgs/02-111.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-112",
+  "name": "Stranger Things 8",
+  "img": "catalogImgs/02-112.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-113",
+  "name": "Stranger Things 9",
+  "img": "catalogImgs/02-113.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-114",
+  "name": "Stranger Things 10",
+  "img": "catalogImgs/02-114.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-115",
+  "name": "Stranger Things 11",
+  "img": "catalogImgs/02-115.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-116",
+  "name": "Stranger Things 12",
+  "img": "catalogImgs/02-116.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-117",
+  "name": "Stranger Things 13", 
+  "img": "catalogImgs/02-117.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
+},
+{
+  "id": "02-118",
+  "name": "Stranger Things 14",
+  "img": "catalogImgs/02-118.png",
+  "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
+  "featured": true,
+  "date": "2025-12-31"
 },
 {
   "id": "03-1",
