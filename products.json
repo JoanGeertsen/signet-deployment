@@ -2837,6 +2837,54 @@
   "date": "2025-12-31"
 },
 {
+  "id": "02-119",
+  "name": "Pluribus 1",
+  "img": "catalogImgs/02-119.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi", "Plane", "Avion", "Sky", "Cielo", "Azul", "Blue", "Celeste"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
+  "id": "02-120",
+  "name": "Pluribus 2",
+  "img": "catalogImgs/02-120.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
+  "id": "02-121",
+  "name": "Pluribus 3",
+  "img": "catalogImgs/02-121.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi", "Ambulancia", "Ambulance", "Rode", "Ruta"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
+  "id": "02-122",
+  "name": "Pluribus 4",
+  "img": "catalogImgs/02-122.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi", "Carol Sturka"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
+  "id": "02-123",
+  "name": "Pluribus 5",
+  "img": "catalogImgs/02-123.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
+  "id": "02-124",
+  "name": "Pluribus 6",
+  "img": "catalogImgs/02-124.png",
+  "keys": ["Pluribus", "Vince Gilligan", "Rhea Seehorn", "TV Show", "Apple TV", "Serie", "Television", "Televisión", "Drama", "Ciencia Ficcion", "Sci-Fi", "Yellow", "Amarillo"],
+  "featured": false,
+  "date": "2026-01-1"
+},
+{
   "id": "03-1",
   "name": "Sonic",
   "img": "catalogImgs/03-1.png",
