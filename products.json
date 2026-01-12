@@ -1876,6 +1876,22 @@
   "date": "2025-04-11"
 },
 {
+  "id": "01-243",
+  "name": "Patita gato",
+  "img": "catalogImgs/01-243.png",
+  "variants": [
+    { "id": "01-243_C1", "img": "catalogImgs/01-243_C1.png", "label": "Negro" },
+    { "id": "01-243_C2", "img": "catalogImgs/01-243_C2.png", "label": "Azulino" },
+    { "id": "01-243_C3", "img": "catalogImgs/01-243_C3.png", "label": "Manchas" },
+    { "id": "01-243_C4", "img": "catalogImgs/01-243_C4.png", "label": "Marrón" },
+    { "id": "01-243_C5", "img": "catalogImgs/01-243_C5.png", "label": "Atigrado" },
+    { "id": "01-243_C6", "img": "catalogImgs/01-243_C6.png", "label": "Naranja" }
+  ],
+  "keys": ["Gato", "Cat", "Patita", "Paw", "Mascota", "Pet", "Animal", "Animales"],
+  "featured": false,
+  "date": "2026-01-12"
+},
+{
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
