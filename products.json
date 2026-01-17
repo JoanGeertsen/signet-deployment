@@ -1587,6 +1587,15 @@
   "id": "01-214",
   "name": "Termo",
   "img": "catalogImgs/01-214.png",
+  "variants": [
+    { "id": "01-214_C1", "img": "catalogImgs/01-214_C1.png", "label": "verde" },
+    { "id": "01-214_C2", "img": "catalogImgs/01-214_C2.png", "label": "rojo" },
+    { "id": "01-214_C3", "img": "catalogImgs/01-214_C3.png", "label": "azul" },
+    { "id": "01-214_C4", "img": "catalogImgs/01-214_C4.png", "label": "crema" },
+    { "id": "01-214_C5", "img": "catalogImgs/01-214_C5.png", "label": "negro" },
+    { "id": "01-214_C6", "img": "catalogImgs/01-214_C6.png", "label": "beige" },
+    { "id": "01-214_C7", "img": "catalogImgs/01-214_C7.png", "label": "rosa" }
+  ],
   "keys": ["Termo", "Stanley", "Botella", "Bottle", "Termo Stanley", "Termo de acero", "Acero inoxidable", "Inoxidable", "Mate", "Argentina", "Verde", "Green"],
   "featured": false,
   "date": "2025-08-7"
@@ -1693,7 +1702,8 @@
   "img": "catalogImgs/01-220.png",
   "variants": [
     { "id": "01-220_C1", "img": "catalogImgs/01-220_C1.png", "label": "blanco" },
-    { "id": "01-220_C2", "img": "catalogImgs/01-220_C2.png", "label": "negro" }
+    { "id": "01-220_C2", "img": "catalogImgs/01-220_C2.png", "label": "negro" },
+    { "id": "01-220_C3", "img": "catalogImgs/01-220_C3.png", "label": "celeste" }
   ],
   "keys": ["Hot Wheels", "Carrera", "Carrera", "Racing", "Deporte", "Sport", "Coche", "Car", "Autos", "Juguete", "Toy", "Carreras", "Racing", "Coleccionable", "Collectible", "Miniatura", "Miniature", "Coleccion"],
   "featured": false,
@@ -1890,6 +1900,22 @@
   "keys": ["Gato", "Cat", "Patita", "Paw", "Mascota", "Pet", "Animal", "Animales", "pata"],
   "featured": false,
   "date": "2026-01-12"
+},
+{
+  "id": "01-244",
+  "name": "Pasaje",
+  "img": "catalogImgs/01-244.png",
+  "variants": [
+    { "id": "01-244_C1", "img": "catalogImgs/01-244_C1.png", "label": "New York" },
+    { "id": "01-244_C2", "img": "catalogImgs/01-244_C2.png", "label": "Buenos Aires" },
+    { "id": "01-244_C3", "img": "catalogImgs/01-244_C3.png", "label": "Tokyo" },
+    { "id": "01-244_C4", "img": "catalogImgs/01-244_C4.png", "label": "Paris" },
+    { "id": "01-244_C5", "img": "catalogImgs/01-244_C5.png", "label": "London" },
+    { "id": "01-244_C6", "img": "catalogImgs/01-244_C6.png", "label": "Rome" }
+  ],
+  "keys": ["pasaje", "vuelo", "ticket", "flight", "viaje", "travel", "avion", "airplane", "boleto", "buenos aires", "new york", "NY", "Ezeiza", "JFK", "paris", "londres", "london", "tokyo", "roma", "rome"],
+  "featured": false,
+  "date": "2026-01-17"
 },
 {
   "id": "02-1",
@@ -3695,6 +3721,54 @@
   "keys": ["Hogwarts Mail", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Buzon", "Mailbox", "Owl Post", "Lechuza", "Búho"],
   "featured": false,
   "date": "2025-08-7"
+},
+{
+  "id": "05-32",
+  "name": "Millennium 1",
+  "img": "catalogImgs/05-32.png",
+  "keys": ["Millennium", "Stieg Larsson", "Libro", "Book", "Literatura", "Literature", "Suecia", "Sweden","Novela Negra", "Crime Novel"],
+  "featured": false,
+  "date": "2026-01-17"
+},
+{
+  "id": "05-33",
+  "name": "Millennium 2",
+  "img": "catalogImgs/05-33.png",
+  "keys": ["Millennium", "Stieg Larsson", "Libro", "Book", "Literatura", "Literature", "Suecia", "Sweden","Novela Negra", "Crime Novel"],
+  "featured": false,
+  "date": "2026-01-17"
+},
+{
+  "id": "05-34",
+  "name": "Millennium 3",
+  "img": "catalogImgs/05-34.png",
+  "keys": ["Millennium", "Stieg Larsson", "Libro", "Book", "Literatura", "Literature", "Suecia", "Sweden","Novela Negra", "Crime Novel"],
+  "featured": false,
+  "date": "2026-01-17"
+},
+{
+  "id": "05-36",
+  "name": "Weasleys",
+  "img": "catalogImgs/05-36.png",
+  "keys": ["Weasleys Wizard Wheezes", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Weasley", "Gemelos Weasley", "Fred Weasley", "George Weasley", "Tienda de bromas", "Joke Shop"],
+  "featured": false,
+  "date": "2026-01-17"
+},
+{
+  "id": "05-37",
+  "name": "Torta Hagrid",
+  "img": "catalogImgs/05-37.png",
+  "keys": ["Torta Hagrid", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Hagrid", "Gigante", "Half Giant", "Giant", "Pastel", "Cake", "feliz cumpleaños", "happy birthday"],
+  "featured": false,
+  "date": "2026-01-17"
+},
+{
+  "id": "05-38",
+  "name": "Torta Hagrid",
+  "img": "catalogImgs/05-38.png",
+  "keys": ["Torta Hagrid", "Harry Potter", "JK Rowling", "Gryffindor", "Magia", "Mago", "Hogwarts", "Hagrid", "Gigante", "Half Giant", "Giant", "Pastel", "Cake", "feliz cumpleaños", "happy birthday"],
+  "featured": false,
+  "date": "2026-01-17"
 },
 {
   "id": "06-1",
