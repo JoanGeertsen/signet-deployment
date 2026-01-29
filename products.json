@@ -2771,7 +2771,7 @@
   "name": "Stranger Things 1",
   "img": "catalogImgs/02-105.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2779,7 +2779,7 @@
   "name": "Stranger Things 2",
   "img": "catalogImgs/02-106.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2787,7 +2787,7 @@
   "name": "Stranger Things 3",
   "img": "catalogImgs/02-107.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2795,7 +2795,7 @@
   "name": "Stranger Things 4",
   "img": "catalogImgs/02-108.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2803,7 +2803,7 @@
   "name": "Stranger Things 5",
   "img": "catalogImgs/02-109.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2811,7 +2811,7 @@
   "name": "Stranger Things 6",
   "img": "catalogImgs/02-110.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2819,7 +2819,7 @@
   "name": "Stranger Things 7",
   "img": "catalogImgs/02-111.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2827,7 +2827,7 @@
   "name": "Stranger Things 8",
   "img": "catalogImgs/02-112.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2835,7 +2835,7 @@
   "name": "Stranger Things 9",
   "img": "catalogImgs/02-113.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2843,7 +2843,7 @@
   "name": "Stranger Things 10",
   "img": "catalogImgs/02-114.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2851,7 +2851,7 @@
   "name": "Stranger Things 11",
   "img": "catalogImgs/02-115.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2859,7 +2859,7 @@
   "name": "Stranger Things 12",
   "img": "catalogImgs/02-116.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2867,7 +2867,7 @@
   "name": "Stranger Things 13", 
   "img": "catalogImgs/02-117.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
@@ -2875,7 +2875,7 @@
   "name": "Stranger Things 14",
   "img": "catalogImgs/02-118.png",
   "keys": ["Stranger Things", "Serie", "TV", "Television", "Televisión", "Netflix", "Once", "Eleven", "Demogorgon", "Ciencia Ficcion", "Hawkins", "vecna", "Demodogs"],
-  "featured": true,
+  "featured": false,
   "date": "2025-12-31"
 },
 {
