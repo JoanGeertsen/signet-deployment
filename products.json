@@ -3483,6 +3483,78 @@
   "date": "2025-10-26"
 },
 {
+  "id": "04-28",
+  "name": "Pescado Rabioso",
+  "img": "catalogImgs/04-28.png",
+  "keys": ["Pescado Rabioso", "Luis Alberto Spinetta", "Rock Nacional", "Rock Argentino", "Musica", "Band", "Banda", "Argentina", "Verde"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-29",
+  "name": "Pescado Rabioso",
+  "img": "catalogImgs/04-29.png",
+  "keys": ["Pescado Rabioso", "Luis Alberto Spinetta", "Rock Nacional", "Rock Argentino", "Musica", "Band", "Banda", "Argentina", "Verde"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-30",
+  "name": "The Beatles 1",
+  "img": "catalogImgs/04-30.png",
+  "keys": ["The Beatles", "Rock", "Musica", "Band", "Banda", "Liverpool", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Amarillo", "Yellow", "Submarino", "Yellow Submarine"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-31",
+  "name": "The Beatles 2",
+  "img": "catalogImgs/04-31.png",
+  "keys": ["The Beatles", "Rock", "Musica", "Band", "Banda", "Liverpool", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Amarillo", "Yellow", "Submarino", "Yellow Submarine"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-32",
+  "name": "The Beatles 3",
+  "img": "catalogImgs/04-32.png",
+  "keys": ["The Beatles", "Rock", "Musica", "Band", "Banda", "Liverpool", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Submarino", "Yellow Submarine"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-33",
+  "name": "The Beatles 4",
+  "img": "catalogImgs/04-33.png",
+  "keys": ["The Beatles", "Rock", "Musica", "Band", "Banda", "Liverpool", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Flores", "Flowers"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-34",
+  "name": "The Beatles 5",
+  "img": "catalogImgs/04-34.png",
+  "keys": ["The Beatles", "Rock", "Musica", "Band", "Banda", "Liverpool", "John Lennon", "Paul McCartney", "George Harrison", "Ringo Starr", "Flores", "Flowers", "Love", "Amor"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-35",
+  "name": "Pink Floyd",
+  "img": "catalogImgs/04-35.png",
+  "keys": ["Pink Floyd", "Rock", "Musica", "Band", "Banda", "Londres", "David Gilmour", "Roger Waters", "Syd Barrett", "Nick Mason", "The Dark Side of the Moon", "Prisma", "Rainbow", "Arcoiris"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
+  "id": "04-36",
+  "name": "Almendra",
+  "img": "catalogImgs/04-36.png",
+  "keys": ["Almendra", "Rock Nacional", "Rock Argentino", "Musica", "Band", "Banda", "Argentina", "Luis Alberto Spinetta"],
+  "featured": false,
+  "date": "2026-02-5"
+},
+{
   "id": "05-1",
   "name": "Harry Potter",
   "img": "catalogImgs/05-1.png",
