@@ -5367,7 +5367,7 @@
   "name": "Manolito",
   "img": "catalogImgs/06-192.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manolito", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Naranja", "Orange"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5375,7 +5375,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-193.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5383,7 +5383,7 @@
   "name": "Miguelito",
   "img": "catalogImgs/06-194.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Celeste", "cian", "cyan", "Miguelito"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5391,7 +5391,7 @@
   "name": "Felipe",
   "img": "catalogImgs/06-195.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Felipe", "Amarillo", "Yellow"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5399,7 +5399,7 @@
   "name": "Libertad",
   "img": "catalogImgs/06-196.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Libertad", "Verde", "Green"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5407,7 +5407,7 @@
   "name": "Susanita",
   "img": "catalogImgs/06-197.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Susanita", "Violeta", "Violet"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5415,7 +5415,7 @@
   "name": "Guille",
   "img": "catalogImgs/06-198.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Guille", "Verde", "Green"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5423,7 +5423,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-199.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5431,7 +5431,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-200.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Verde", "Green", "Hamaca"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5439,7 +5439,7 @@
   "name": "Basta",
   "img": "catalogImgs/06-201.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Basta"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5447,7 +5447,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-202.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "Red"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5455,7 +5455,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-203.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5463,7 +5463,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-204.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor"],
-  "featured": false,
+  "featured": true,
   "date": "2025-09-18"
 },
 {
@@ -5513,5 +5513,13 @@
   "keys": ["Flash", "DC", "Superheroe", "Comic", "Historieta","Barry Allen", "Wally West", "Velocista", "Speedster", "Rayo", "Lightning", "jay garrick" ],
   "featured": false,
   "date": "2025-07-18"
+},
+{
+  "id": "06-211",
+  "name": "Mafalda",
+  "img": "catalogImgs/06-211.png",
+  "keys": ["Mafalda", "Speedster", "Rayo", "Lightning", "jay garrick" ],
+  "featured": true,
+  "date": "2025-09-18"
 }
 ]
