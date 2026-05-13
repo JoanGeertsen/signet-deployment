@@ -1917,11 +1917,141 @@
   "featured": false,
   "date": "2026-01-17"
 },
+
+{
+  "id": "01-245",
+  "name": "Mundial",
+  "img": "catalogImgs/01-245.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-246",
+  "name": "Mundial",
+  "img": "catalogImgs/01-246.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-247",
+  "name": "Mundial",
+  "img": "catalogImgs/01-247.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-248",
+  "name": "Mundial",
+  "img": "catalogImgs/01-248.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-249",
+  "name": "Mundial",
+  "img": "catalogImgs/01-249.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-250",
+  "name": "Mundial",
+  "img": "catalogImgs/01-250.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-251",
+  "name": "Mundial",
+  "img": "catalogImgs/01-251.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-252",
+  "name": "Mundial",
+  "img": "catalogImgs/01-252.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-253",
+  "name": "Mundial",
+  "img": "catalogImgs/01-253.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-254",
+  "name": "Mundial",
+  "img": "catalogImgs/01-254.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-255",
+  "name": "Mundial",
+  "img": "catalogImgs/01-255.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-256",
+  "name": "Mundial",
+  "img": "catalogImgs/01-256.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-257",
+  "name": "Mundial",
+  "img": "catalogImgs/01-257.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-258",
+  "name": "Mundial",
+  "img": "catalogImgs/01-258.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-259",
+  "name": "Mundial",
+  "img": "catalogImgs/01-259.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "Celeste", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+{
+  "id": "01-260",
+  "name": "Mundial",
+  "img": "catalogImgs/01-260.png",
+  "keys": ["Mundial", "World Cup", "Fútbol", "Football", "Soccer", "Deporte", "Sport", "Balón", "Ball", "Copa del Mundo", "Futbol", "AFA", "FIFA", "Messi", "Dibu Martinez", "verde", "Argentina"],
+  "featured": true,
+  "date": "2026-05-13"
+},
+
 {
   "id": "02-1",
   "name": "BCS-1",
   "img": "catalogImgs/02-1.png",
-  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Amarillo", "Yellow"],
+  "keys": ["Better Call Saul", "BCS", "Saul Goodman", "Jimmy McGill", "Bob Odenkirk", "Gus Fring", "Mike Ehrmantraut", "Jonathan Banks", "Breaking Bad", "Heisenberg", "Walter White", "Jesse Pinkman", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Nacho Varga", "Kim Wexler", "Rhea Seehorn", "Lalo Salamanca", "Tony Dalton", "Gale Boetticher", "Giancarlo Esposito", "Los Pollos Hermanos", "Hector Salamanca", "Tuco Salamanca", "Amarillo", "Yellow"],
   "featured": false,
   "date": "2025-02-25"
 },
@@ -5367,7 +5497,7 @@
   "name": "Manolito",
   "img": "catalogImgs/06-192.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manolito", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Naranja", "Orange"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5375,7 +5505,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-193.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5383,7 +5513,7 @@
   "name": "Miguelito",
   "img": "catalogImgs/06-194.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Celeste", "cian", "cyan", "Miguelito"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5391,7 +5521,7 @@
   "name": "Felipe",
   "img": "catalogImgs/06-195.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Felipe", "Amarillo", "Yellow"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5399,7 +5529,7 @@
   "name": "Libertad",
   "img": "catalogImgs/06-196.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Libertad", "Verde", "Green"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5407,7 +5537,7 @@
   "name": "Susanita",
   "img": "catalogImgs/06-197.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Susanita", "Violeta", "Violet"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5415,7 +5545,7 @@
   "name": "Guille",
   "img": "catalogImgs/06-198.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Guille", "Verde", "Green"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5423,7 +5553,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-199.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5431,7 +5561,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-200.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Verde", "Green", "Hamaca"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5439,7 +5569,7 @@
   "name": "Basta",
   "img": "catalogImgs/06-201.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Basta"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5447,7 +5577,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-202.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor", "Rojo", "Red"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5455,7 +5585,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-203.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5463,7 +5593,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-204.png",
   "keys": ["Mafalda", "Quino", "Comic", "Historieta", "Manuel Garcia Ferré", "Gaturro", "Argentina", "Humor"],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 },
 {
@@ -5519,7 +5649,7 @@
   "name": "Mafalda",
   "img": "catalogImgs/06-211.png",
   "keys": ["Mafalda", "Speedster", "Rayo", "Lightning", "jay garrick" ],
-  "featured": true,
+  "featured": false,
   "date": "2025-09-18"
 }
 ]
